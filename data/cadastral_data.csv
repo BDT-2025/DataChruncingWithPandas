@@ -1,0 +1,1001 @@
+cadastral_parcel,town,province,owner_id,year_of_last_update,square_meter,purpose
+6802/14,North Haverbrook,Province E,a9a60cb3-2086-4bf6-bba7-6672037015ed,1991,1504.86,Shop
+3620/9,Springfield,Province E,7814b2fd-c4ad-4cf7-9b98-3b08df339a7e,1962,2772.36,Garage
+1523/41,Springfield,Province E,84061b37-d0a0-4b5c-93f8-57854460da33,1932,2236.12,Garage
+4228/32,North Haverbrook,Province A,e58d813f-94f9-4328-933f-6f93ccfe152b,1983,208.44,Office
+8983/56,Ogdenville,Province D,f23133c7-dff2-4837-ba21-a4712ac18630,1908,3178.1,Shop
+6003/16,Springfield,Province B,87286f85-23c1-4ebc-becd-afde2b5ce8a4,1941,1560.85,Shop
+4037/66,Ogdenville,Province B,9b9b9058-68dc-42be-81b4-025947327368,2009,3965.58,House
+5539/1,Shelbyville,Province C,7468f945-fb6a-452b-834b-15db1ec822a5,2023,Warehouse,3386.68
+8284/17,Ogdenville,Province C,68ac649e-ace4-46ee-9d51-b2cec27e0b00,1966,4615.22,Garage
+1897/10,Shelbyville,Province A,c5e4148d-0d21-4589-b745-bd7691904b9a,1972,Shop,874.15
+9840/49,Shelbyville,Province C,30fdf83f-8081-43ca-9dd6-4c143b3c7146,1908,Garage,2016.67
+2728/80,Shelbyville,Province B,8b0753ec-42c6-4d6b-8f2e-d4a784171b2f,1950,Warehouse,121.77
+3074/42,Shelbyville,Province D,bc7bd963-ac30-4f4e-9a9c-2783d14240b8,1979,House,1887.08
+8546/60,Ogdenville,Province A,7e5af1e1-ae6d-474b-9bf4-ca8fc2d60374,1927,300.21,Office
+8723/85,North Haverbrook,Province C,9586d54c-f19e-4cfc-a195-19385a754646,1969,2683.38,Office
+6200/83,Springfield,Province A,16d0b230-4abf-46cf-a327-7878acc50c79,1970,1110.54,Garage
+6637/13,Ogdenville,Province B,b10db577-425f-47ec-8118-7c45d1f8c524,1968,3568.52,Warehouse
+4465/99,North Haverbrook,Province E,7e2333d1-a5eb-4ba2-93c6-3eacdebe80da,1987,4458.98,Warehouse
+1663/72,Springfield,Province B,a2564652-ce6a-45fb-90ae-f5dc504f98e3,2022,1019.81,Office
+3154/81,North Haverbrook,Province E,c3ac0fde-9d67-4c3d-80fa-d5464d0b040b,1997,4401.59,Office
+8421/2,Springfield,Province A,b03ed1a3-dffb-4275-954a-cea997872b22,1907,4155.28,Shop
+7539/88,Springfield,Province D,5947d0cd-85dc-4eb0-9b80-a08100401f87,1975,111.62,Office
+8589/2,Ogdenville,Province C,b1e05c60-694b-43cc-b273-4cf2e2c5eca3,1969,2704.53,Warehouse
+3371/81,North Haverbrook,Province A,0c233815-0a90-4e24-a993-d174367ec60e,1961,2695.97,Warehouse
+9706/85,Shelbyville,Province C,e15c1700-29c7-4bc4-b688-6c1178542bb5,1962,Office,4254.38
+5920/88,Shelbyville,Province A,6fb61ed4-b019-4112-9cec-50ca39fed6d9,1980,Warehouse,3397.07
+4151/42,North Haverbrook,Province E,767381f2-e42f-449b-911d-9ce2c169e730,1985,3329.34,Garage
+9393/76,Ogdenville,Province C,2bb4b7a7-0c1d-4718-be88-69d7724b0104,1991,1132.65,Garage
+7807/4,Ogdenville,Province C,79ae0b67-c88a-4c5c-98ba-857a87548224,1903,1755.62,House
+4495/22,Ogdenville,Province B,961e25ef-0d41-4279-811a-f7b0c1510a1d,1989,906.42,House
+3480/34,North Haverbrook,Province D,3bf13ec8-63ba-4c17-9d8e-c18a0a123421,1913,289.91,Garage
+4222/13,Springfield,Province A,bd35aa09-b403-49df-ab97-d511f241cff9,1902,789.7,House
+6291/73,North Haverbrook,Province B,3c856b5b-ff40-4abf-9f70-0bc60359e527,1975,4983.8,Warehouse
+9452/5,North Haverbrook,Province E,5e9a3133-4082-47d4-93bc-1f72c6b572ac,1987,770.09,Office
+5027/91,Ogdenville,Province C,e6738faa-bf8c-4042-ab0c-ed8d1afe8b82,1919,1253.25,House
+4766/3,North Haverbrook,Province D,582eebf4-8399-4d06-8df2-53274c8cb970,1957,4744.72,Warehouse
+8151/83,Ogdenville,Province C,e8252a81-777f-4443-9bda-ac881ef43c28,2010,3449.82,House
+4192/99,Springfield,Province D,ae9b7381-7cb7-48e1-8dae-cbe7cee3745f,1907,2650.94,Garage
+9766/76,Springfield,Province E,39359384-c280-4f5d-8417-dd9c3aa298a5,1973,3735.4,Warehouse
+2800/52,Ogdenville,Province B,4e806a2f-7b26-429a-ae74-f52d9361fb5b,1975,1202.04,Garage
+8263/62,Springfield,Province A,8ac63e00-b01b-4f54-849a-ef41e37bcb01,1964,3909.26,Warehouse
+5920/95,Shelbyville,Province C,b9c1f366-475f-4cf6-8d56-efbb024d9c0d,2000,Shop,1514.32
+8624/17,North Haverbrook,Province C,08a4945c-1c17-42a6-9514-268bbf350165,2015,4744.94,Shop
+4650/85,Ogdenville,Province C,eccf03d0-15d9-4489-8598-c65207fbb879,1986,4766.18,Warehouse
+1953/34,North Haverbrook,Province E,67d13383-df51-4505-a810-56d25480bc83,2004,4563.4,Office
+1140/41,North Haverbrook,Province B,1186be4d-05ae-44aa-bba7-06204f524deb,1959,3928.73,Warehouse
+2353/69,Ogdenville,Province C,b2a4e962-5c02-42ba-ac1f-8e1c65184318,1936,329.47,Shop
+4712/36,Ogdenville,Province B,3a5c46b2-a605-4f78-a522-19d275a768b2,1949,4321.31,Office
+5444/85,Springfield,Province C,6e98efdb-9eee-4f3d-8c8b-06080322b66b,1996,963.66,Shop
+2709/42,Shelbyville,Province C,5a9dc89d-1d37-4f20-babe-e8eee4d4ab69,1999,Shop,250.06
+3861/32,North Haverbrook,Province B,b81a8b9a-b0df-41da-996c-37b24988d259,1995,2142.27,Garage
+1722/77,Shelbyville,Province D,2151983f-5f06-4f09-9d7b-006987acc5ca,2003,Office,1848.86
+7884/35,Shelbyville,Province D,3dbee64d-8040-4f26-9e66-bc332887f4a4,2006,Warehouse,468.99
+3674/37,Shelbyville,Province A,4bf40aad-6040-4920-92e9-dc9a6e407bd2,1910,Garage,2047.19
+9208/70,Shelbyville,Province B,9a0e1ad9-3a06-4875-b59b-48c1f3a8115f,1937,Office,1429.41
+7016/48,Ogdenville,Province A,6c7731bd-1808-4888-86de-2cd05e4eda96,1907,4656.36,Office
+3976/85,Ogdenville,Province A,905130c5-3713-431a-9042-1d9e428d10e2,1952,3793.35,House
+5920/16,North Haverbrook,Province C,0cdd67b8-07fa-4fc3-9a20-9aef049259fe,1914,3756.38,Garage
+3356/37,Springfield,Province A,34ad2d63-ded6-48a8-9a82-136990a932c3,1955,252.47,Warehouse
+9043/27,Shelbyville,Province B,4316516b-dedd-4351-ba93-237aaf9da6ae,1928,Office,4668.54
+5661/27,Ogdenville,Province D,ca4269f0-2cec-4888-8703-c6a27cb7bc98,1978,2903.47,House
+1383/44,Ogdenville,Province E,3dc63815-054a-4dd0-8194-6fc7ed61777f,1913,1104.12,Office
+8146/19,Ogdenville,Province A,167ad327-a8bf-43d7-9fd7-fefc16bfa991,2020,2440.82,Office
+7973/74,Ogdenville,Province D,54183c37-4078-4587-b571-f32c314507c9,1940,1075.61,Garage
+2592/4,Shelbyville,Province E,30dd988b-54e8-40f9-8530-0a1c4b644967,1929,Shop,3641.92
+6676/98,Springfield,Province C,0737f280-b008-4ba9-8d11-3cb93ea7c74c,1946,4474.96,House
+7193/7,Ogdenville,Province B,d82dae5b-dc7c-4f20-a994-3b52e74d207f,1977,2064.85,Garage
+7126/93,Springfield,Province E,14c7db61-85d9-4ffb-88dd-3df1ce4d4fa6,1957,4884.7,Office
+2066/18,Ogdenville,Province A,a6b2b6f4-966e-4dbc-ba04-eaddad8a7270,1947,4065.93,Warehouse
+6420/66,North Haverbrook,Province D,5a41073e-1456-4022-9085-8794ca38433b,1901,3136.49,Garage
+5459/35,Ogdenville,Province A,83a92df8-11f4-4659-8028-3cc3e9aed629,1932,4377.98,Warehouse
+8789/30,Ogdenville,Province B,941812cb-1b8e-4be4-a9f2-ff55d16cad4a,2002,1267.32,Office
+7338/22,Springfield,Province C,0030ba0e-db2d-4c35-bc48-401e48fa2a29,1928,4163.12,Warehouse
+3994/10,Shelbyville,Province C,8f1157a8-7f46-4899-b836-bb7d83f6291b,1970,Garage,2372.26
+9411/37,Ogdenville,Province D,41617510-a2d3-48c0-9d13-c4164bbcf45e,1971,1118.23,Office
+6902/32,Ogdenville,Province D,11036bcd-b6ce-44e7-8c85-6395ed074b3c,1938,2921.75,Shop
+2474/68,North Haverbrook,Province E,3c48ca72-3c11-4cb8-a7b4-b1b39960044e,2003,1302.85,Warehouse
+6054/96,Springfield,Province D,4a495d8c-1847-436b-819e-2e2134977774,1902,4017.63,Garage
+1644/60,Shelbyville,Province B,17a46676-8c88-432e-9d0b-fc2dade38deb,1956,Garage,4548.12
+4539/35,Shelbyville,Province B,358ccadf-8033-42c9-af9b-272bd5da6b02,2022,Warehouse,2471.69
+5687/7,Springfield,Province A,ab395e9a-5746-4eba-9507-63f79b7e118e,2009,4644.17,Office
+4032/5,Ogdenville,Province C,2a9f14e8-adc9-4d8e-a678-6537e2bd3b42,2021,2371.86,Shop
+5515/5,Springfield,Province C,728842e5-4e95-4df5-a20e-816735a275f5,1980,4764.07,Warehouse
+4706/18,North Haverbrook,Province C,1dc19549-c2e6-4997-b0af-01d723a4f2e4,1982,3297.13,Warehouse
+4976/5,Shelbyville,Province D,221644fa-3f92-4aef-9fb5-c7fa0fac3f52,1998,Office,2876.81
+6182/37,Shelbyville,Province B,2f34bd07-efdc-4e33-8d3a-c6f75a48cba8,2006,House,4323.49
+8927/26,Springfield,Province D,40abdda2-0a58-4eac-a49f-acdb06d3e757,1911,1894.65,Warehouse
+2875/44,North Haverbrook,Province D,9ef029de-0335-4ee4-84d5-ffa28063a6d4,1994,2602.87,Shop
+7059/38,Springfield,Province E,ac17c8da-723f-4f4b-b415-e833bc1f3ae3,1988,2672.15,House
+8372/18,North Haverbrook,Province E,47ef29a4-f13d-4149-bf53-9e0daf274dab,2020,1473.99,House
+7451/61,Ogdenville,Province A,10e007b2-9298-4199-bb17-33ad322e2708,2014,2736.03,Shop
+1861/8,Shelbyville,Province E,8a13c3c6-72cf-42e7-966d-62f17030a6d2,1905,Warehouse,4246.07
+4839/5,Ogdenville,Province E,bbe4afa6-b214-43ff-8b87-89dc12d5bfa6,nan,3339.72,Garage
+5086/22,Shelbyville,Province B,2de6d9b8-8156-4547-8256-833b0b9a1713,2025,House,519.86
+2667/9,Shelbyville,Province C,cc8f555a-f881-490b-a026-ebde5648c71c,1978,Shop,233.36
+5635/96,Ogdenville,Province C,fd6f945d-7c1f-4dc5-9f8d-7d2a4b41ffba,1953,399.99,Office
+4445/95,Springfield,Province D,8e5945ad-1e22-464e-935f-73eaca63f493,1931,1078.97,Shop
+5928/45,North Haverbrook,Province C,c69ff6d5-595a-4048-bba1-7669433f0521,1982,2041.98,Warehouse
+9741/68,Shelbyville,Province D,fe4d877e-5512-42c2-8da2-e297c1d833f9,1992,Garage,4358.38
+4924/72,North Haverbrook,Province E,892988f0-04c0-439d-9061-d312ac72fe5c,1987,886.83,Office
+2385/75,Ogdenville,Province C,984447af-7850-4af5-b1ef-96ec61b311a6,1922,1812.58,Garage
+7465/12,Shelbyville,Province C,51298846-b5e8-4102-8f3f-bc70a6540704,1950,House,1926.09
+3857/56,Springfield,Province C,ca15430e-3ac8-4cc0-9a48-0e62c4306c83,1959,2376.04,Shop
+8304/5,Ogdenville,Province A,6764c315-af6d-4eea-8b5f-5abfda5b23d0,2011,4588.06,Shop
+2083/85,Springfield,Province B,f23d12e1-8ffb-4985-832c-1b73484e890d,2021,4646.91,Office
+6120/41,Ogdenville,Province E,4f7f69db-4fc8-4d2c-b28b-a805e7cccd0c,1994,4031.68,House
+7384/63,North Haverbrook,Province C,4e85e4c8-3f60-4667-b6c0-e5d529af5dfd,1921,2716.17,House
+5812/51,Shelbyville,Province E,af278244-6016-4579-9a4a-dd237b28719f,1975,Office,2172.47
+6752/95,Ogdenville,Province C,8b7a78df-90c1-48a0-b56e-4c150a1f3b99,1957,2025.53,Garage
+6072/67,Springfield,Province E,1de3f27b-badb-49ce-8f76-82357012fb08,1984,318.48,Shop
+4647/61,North Haverbrook,Province B,2bcd354e-b843-4f01-bc9b-b42fa7547a3b,1962,3921.5,House
+7392/69,Ogdenville,Province B,0c770c1a-697d-463e-9866-eba3f34b34cf,1934,1221.58,Office
+5233/33,North Haverbrook,Province A,ffc06230-fce7-4aff-8ffa-e48a88fbd7ee,1921,3809.33,Garage
+1785/68,Ogdenville,Province A,9a643a91-59a9-491a-a43d-9495a8d7928c,1947,730.65,Warehouse
+6741/13,Shelbyville,Province D,ac02cbe8-7fc7-49b3-a9fc-704a712b8da9,1977,House,2228.42
+2883/84,Ogdenville,Province E,7dedc72d-be69-4a87-a273-e206fb75c207,1946,3180.53,Office
+8442/32,Ogdenville,Province A,32e2d1aa-fc98-4170-ab84-8639c037bffd,2016,3565.48,Office
+3137/65,Springfield,Province C,7a8a5330-7319-4b36-a6c7-694e590d9f2e,1933,591.73,Shop
+8336/15,North Haverbrook,Province D,55e38795-d976-4dbc-8589-a504468184f2,1974,4273.47,Shop
+3545/88,Shelbyville,Province E,b51efc9a-d8ff-4e08-81db-a5ecd319c791,1900,House,4326.33
+2110/27,Shelbyville,Province C,9f1414bb-5942-427f-95fa-398f7f5fce78,1913,Garage,2553.78
+7816/7,Shelbyville,Province C,bb9f02d6-42c9-41e0-a08d-87caae3e3894,1941,Office,162.58
+1731/79,Ogdenville,Province D,3498ed1a-e110-4682-b6d1-5ab4963e632d,1940,1189.69,Office
+3205/57,Ogdenville,Province C,5610c8df-9746-4bf8-99cf-b3eec5b86521,1997,71.83,Office
+2576/27,Shelbyville,Province B,1a629434-ac74-44a3-a63f-80fda00ea23a,1906,House,4510.79
+6353/91,Springfield,Province B,3048e3a5-d4da-42b7-9893-231aa0391102,2007,3393.1,Office
+8768/98,Ogdenville,Province D,cd49c86d-6ae8-4113-bf6b-ffb7da5403d6,1917,2850.95,House
+3114/34,Shelbyville,Province E,ffe3b56f-8aa5-416d-ba20-3e6ad4b8ebe7,1930,House,3387.63
+2279/88,Ogdenville,Province D,d5c62999-5442-470d-9edd-572c4585772a,1999,1329.44,Warehouse
+9853/7,North Haverbrook,Province A,65e9dcff-8836-4f8d-bffb-b08e69bcb032,1967,4263.75,Shop
+4741/8,Shelbyville,Province D,399f12f5-f7e0-446f-b0b2-8b0e89cc3710,2020,Garage,2311.35
+7406/18,Shelbyville,Province A,a3266540-e041-43de-9f6d-5c9b0f78e616,1964,House,2802.27
+6490/67,North Haverbrook,Province A,50ed2145-a1ae-4305-a822-6517150ddd3d,1925,1584.03,Shop
+7633/32,Springfield,Province B,c8f2ded4-410f-4efa-8dd9-6cfe4b22553b,2014,3555.19,House
+7309/44,Springfield,Province B,744f76b9-ecf7-419c-8c66-551f06dd4cf2,1947,461.31,Garage
+5519/51,Ogdenville,Province D,ef23e126-678f-4f92-9b26-c6d3a568685e,1902,3978.1,Warehouse
+9373/72,North Haverbrook,Province E,71f79912-a2a6-4715-9432-0820c4f30d70,1905,3834.58,Garage
+2033/21,Ogdenville,Province C,5f25f21f-979f-4987-910c-46abb887e216,1996,3073.91,Warehouse
+5027/13,North Haverbrook,Province E,75a9d197-c3c0-43d6-b8b7-d1a793ec9ee4,2012,2476.65,Warehouse
+4851/75,Shelbyville,Province B,7a9db2fd-817a-4ea6-8b8b-8cb372b3e328,1967,Warehouse,1226.45
+6306/71,Shelbyville,Province B,db64c1f8-a9a1-471a-a985-104de8157a45,1962,Warehouse,2172.72
+1060/37,Springfield,Province C,fb36add2-eeda-43da-95bb-919341fe42c3,1909,1845.38,House
+5010/13,Springfield,Province A,89363af9-bc46-4ae8-9647-04c31fdb94d4,2017,2453.66,Office
+2523/97,Ogdenville,Province A,ccc09eac-5b5f-4a1a-9727-bcc84a57959a,1913,1800.5,Warehouse
+6041/8,North Haverbrook,Province B,3a86e9d0-3985-4e62-99d9-45d7c84c6259,1991,2735.24,Warehouse
+7628/37,Ogdenville,Province A,d0d0b2eb-37be-48b2-9344-70e93c153eb1,1981,55.31,Warehouse
+8456/37,Springfield,Province B,0c37610f-9ed1-4978-b33a-e7c5d22b03a7,1921,1217.08,Garage
+5948/34,Springfield,Province A,271c46d8-d272-4d45-ad69-6882938a77ae,1973,4709.2,Shop
+8541/41,Springfield,Province E,1c0714db-00c2-47aa-bd8f-8edade354f35,1902,4610.77,Office
+6472/20,Shelbyville,Province D,16401ae0-8667-4f92-9adf-e75d2ccd165b,2003,Warehouse,4125.04
+5686/95,North Haverbrook,Province C,c7c60caf-ca27-4d3b-a893-c8f24bda7681,1908,4655.81,Office
+3719/71,Springfield,Province E,3b5f29d1-f1a4-4712-b4f3-290f59d7cfbf,1928,727.75,Warehouse
+4239/27,Ogdenville,Province B,70f3b670-41f2-4c36-94ce-f292b1d83331,1984,4102.54,Garage
+2636/99,North Haverbrook,Province C,8a8d8c0f-7e9b-4ef2-b64c-568b8f4d81e3,1929,4339.61,House
+3570/89,Shelbyville,Province D,c673f7dd-6a6f-436a-85db-7dd9c5254f9c,1908,House,1539.03
+3334/50,Springfield,Province D,cf79f6fb-b777-4eb5-b7cd-9faa4829b6f1,1924,4250.75,Garage
+2905/40,North Haverbrook,Province C,aab5398d-e703-4f29-9b59-d8ca2fbef0c8,2004,4071.38,Warehouse
+9495/58,Ogdenville,Province E,77703fd0-eebc-4965-a9d1-af601533ac51,1900,2076.86,Warehouse
+3006/26,Springfield,Province A,543d4b5b-db52-4d72-876d-59c128eb0615,2005,2226.36,Warehouse
+6317/12,Springfield,Province D,f716a2a6-ee6c-4f1b-8754-04addc9ed80d,1959,1561.59,Warehouse
+3665/21,North Haverbrook,Province A,cd2c1347-f853-4a48-ab72-fa023c85d9d0,2024,3142.4,Shop
+3667/88,Shelbyville,Province C,71b77eb1-8728-425f-892e-f8ed4b9b77cc,1946,Office,355.62
+2338/36,North Haverbrook,Province D,22b4fae8-045d-4b31-8ef1-368ef2590f51,1977,292.44,Garage
+4675/46,Shelbyville,Province C,64ffb3a6-cafb-42c4-97f9-666f339e31b2,2020,Office,3863.89
+2706/67,North Haverbrook,Province E,52885689-1d25-4470-b50c-ef89d8ba2b38,1990,466.77,House
+2921/32,Shelbyville,Province B,df8c5221-b13e-4704-b363-078b55cf8774,1969,Office,1138.01
+5926/2,Shelbyville,Province C,4179fa67-c35d-4d7f-8cf9-2f0d545d053f,1978,House,1807.6
+4603/47,Springfield,Province E,f013d9e4-9cd2-4f7b-b397-6755273373fd,1960,3467.85,Shop
+2957/31,North Haverbrook,Province C,d40ff760-e896-46b3-be54-99cc5012fa7d,1961,2196.09,Shop
+9184/88,Shelbyville,Province A,faf4e8d2-ccb5-4efd-bfe4-826452f3a62b,1938,Garage,1618.22
+4177/14,Springfield,Province D,db1a4e53-99b0-4e42-815c-d12cb6e825d8,1983,4168.38,Garage
+5504/99,Springfield,Province B,83b07d83-4e40-4a6f-91cc-c9097640cfdc,1935,4143.65,House
+2502/49,Shelbyville,Province E,c96c02c4-320d-43a3-88ce-7bb099e15c3c,1928,Warehouse,2187.53
+7745/65,Ogdenville,Province C,0a8bb728-9a40-497d-b34a-348b8055b1d8,1983,2004.85,Shop
+6691/22,Ogdenville,Province E,f6f4b200-0ac8-47f2-8bda-08fd35fa92e9,1959,1602.67,Office
+6328/48,Shelbyville,Province E,9df4119a-86c8-4a07-9d2d-cee68e4cacaf,1936,Shop,1508.35
+1107/61,North Haverbrook,Province D,514168e9-c1c6-436e-898f-f11ac1bb468c,1983,495.45,House
+7690/21,Ogdenville,Province D,80388060-93cc-429d-882d-a4b2e5a93ae0,1999,3256.26,Garage
+6823/74,North Haverbrook,Province E,aabfe8bf-c2e4-461c-9189-fd965fa9e86c,1996,3529.93,Office
+6380/13,Shelbyville,Province A,9f5e1971-6280-42f0-8951-ddca3e3dec0f,2024,Warehouse,140.12
+5490/39,Ogdenville,Province E,a90596fb-30c8-4781-924e-b132f2410362,1925,174.71,House
+9151/69,North Haverbrook,Province C,e77fe595-5da5-4d95-90b2-cf085249b56e,1955,4832.63,Warehouse
+4436/42,North Haverbrook,Province D,894f606d-cbbb-4b30-bcd4-f7c3e7a7e4c8,1952,706.09,Office
+5809/91,Ogdenville,Province E,94666b14-b304-4afd-a250-a11827cdb178,1900,1664.54,House
+6110/51,North Haverbrook,Province A,316ffeb8-9ed7-4a2e-a2e8-da9d45cc0acf,2021,3630.45,House
+5009/50,Springfield,Province D,d232777c-f839-4888-9677-16f4f0eaea11,1965,2832.99,Office
+5156/98,Ogdenville,Province B,eed934ac-c5a4-4619-8265-3dca68acebaf,1919,3803.12,Warehouse
+4667/79,Springfield,Province B,802c4b32-0666-46bb-952d-9d1e70d5aeb2,2002,1050.86,Garage
+3767/51,North Haverbrook,Province A,50fed702-5e8a-4c5b-b084-c47eaf80578d,1951,3941.95,Garage
+4124/52,Ogdenville,Province C,66824b94-c2fc-42fb-b72e-4be48e47a2e9,1963,2945.71,Garage
+4651/80,Shelbyville,Province E,d4582a4e-83d6-41f9-8a17-5e3084fdc6ff,1997,Office,3680.0
+7902/66,North Haverbrook,Province E,81d2ab5d-ae5f-442d-8a8d-d0de89dab8fe,1984,265.72,House
+6330/28,Ogdenville,Province B,c58516e9-c3e3-4ea4-b561-3cabddb57a33,2020,3917.34,Garage
+9193/71,Shelbyville,Province C,20721006-1374-4641-adfe-75a4d4196ec5,1940,Office,3163.24
+7061/58,Springfield,Province C,7919e2a0-db7b-4f61-9e37-8ab8e9549b96,2016,1317.58,Garage
+6692/44,Shelbyville,Province D,fe025de9-5f52-4b49-9e51-fd09d3abfc4b,2006,Warehouse,2113.59
+8758/5,North Haverbrook,Province C,ab49bd12-e167-4d79-a8c4-c1812000cb78,1973,538.75,Office
+7047/2,North Haverbrook,Province D,2162c630-6fe6-467d-8109-1eaa7d199e12,1950,911.47,Shop
+9717/54,Springfield,Province E,bbdacc09-89b3-4298-b4e2-60ab159ddce7,1901,4679.14,House
+7223/76,North Haverbrook,Province E,fc476287-ae19-4c68-84f2-ec4874ba03f6,2022,2679.66,Shop
+8284/20,Ogdenville,Province D,2a449a98-e370-4edc-8c1c-edd7c55b83c9,1920,2522.98,Garage
+4310/8,Ogdenville,Province C,5aa315ec-aafa-40a8-b9af-699be50596ec,1913,569.56,House
+7607/28,Shelbyville,Province D,decf24a3-df2c-4bd0-a868-3d3a21fd22b0,1907,Office,2712.55
+1965/74,North Haverbrook,Province C,ad97aaa8-3613-4846-8f87-3f986765db56,1904,879.56,Warehouse
+8320/59,Springfield,Province B,cfd22f47-5616-4832-9388-b8696ac4e296,1932,1958.18,Shop
+7322/82,Springfield,Province C,58f7fb24-ff3a-4313-b117-03b0b1baf8bb,2023,3279.81,Warehouse
+3975/34,Ogdenville,Province C,158b790a-1641-4734-a42f-a8097dd3caf7,1961,2681.72,Garage
+5171/36,Ogdenville,Province E,9b9b97f5-83a4-41f5-91fd-1c6c2c3cee87,2006,697.63,Warehouse
+2546/85,Springfield,Province C,40fb3d97-db4d-4d11-b0ca-99b458486df6,1937,3040.45,Garage
+9146/17,North Haverbrook,Province A,0933b358-8e2c-497b-ad41-7fd21780c54d,1927,4162.19,House
+4455/67,Springfield,Province D,40438f89-9a6c-4ee0-84ef-6856e694c447,1971,1263.43,Shop
+3508/49,North Haverbrook,Province A,f8ce0355-0165-47ba-95f0-2e04b9057b67,2015,2997.64,Office
+8808/20,Springfield,Province E,ad183ee2-63c6-494a-a1a0-04b76cde61b5,1950,3116.61,Shop
+9909/50,North Haverbrook,Province D,ef89a65a-595e-4d90-9941-e85f97a3fe4e,1918,967.29,Shop
+7391/59,North Haverbrook,Province D,989acf75-ca1a-4c21-854d-dcee7f0a6a32,2017,3464.23,Warehouse
+2816/57,Shelbyville,Province E,b4ab8c1c-68be-46b9-80c8-4f4e988a5a62,1920,Garage,735.62
+4619/10,North Haverbrook,Province D,3a6b5162-2b92-42cc-984e-09acb5ad7a27,1933,2566.47,House
+2854/42,North Haverbrook,Province C,fc7d7abd-cfa1-4b1a-9f74-3c53375c0438,2007,952.89,Garage
+9861/72,Ogdenville,Province D,aaeb7f24-4b35-46fe-8e2e-b9da5b54a966,1949,4907.97,Shop
+2337/42,Ogdenville,Province D,95757571-d11e-472e-a57b-d8ff0971e6a9,2019,917.53,Shop
+6084/63,North Haverbrook,Province B,3e581992-e9aa-4725-9a64-d00d30159f6e,1958,2463.48,Shop
+8946/32,Ogdenville,Province C,75b382ce-b1fd-463c-8f00-378df6548d19,2015,4435.85,Office
+5382/98,Ogdenville,Province D,4591694b-6ae9-428a-809c-1dd169dabf40,1986,3799.05,House
+9529/43,Springfield,Province B,235c3405-3ec4-4a3e-b508-37f9cc884b15,1967,4342.93,Shop
+4997/36,Ogdenville,Province C,3ca3f8e9-970f-47c3-bb13-514e12aac6ce,1992,951.76,Garage
+8746/61,Springfield,Province E,fbd7ae39-562a-40aa-8402-312c36a6d45f,2008,4933.22,Office
+2593/63,North Haverbrook,Province C,de16f9d8-9eef-4ae3-b1f2-817dbd1f48aa,1989,810.28,House
+6438/87,Shelbyville,Province C,9f612c65-7140-4f45-98cd-22ab7fad9ce6,2019,Warehouse,2336.62
+5459/71,Shelbyville,Province A,46b7765b-3826-407d-af43-4b15160cd963,1971,Shop,4239.75
+6554/80,Ogdenville,Province C,ff40fca1-aac2-4588-a050-becf6611bed7,1954,3394.78,Garage
+4816/90,Ogdenville,Province D,af7fef78-c0fa-40dc-aebf-e974629200ec,1963,179.23,Garage
+5339/15,North Haverbrook,Province A,3bbcf2ca-7ac7-419c-b942-51a5f2abce85,1922,3714.99,Garage
+5492/14,Ogdenville,Province D,c8b9f691-1a6e-4afe-9fcf-76ecdad022a2,1999,2572.79,House
+7409/23,Ogdenville,Province D,1ee2e6a1-6dca-4b40-90ce-586e9a060053,1921,2632.48,Shop
+1353/65,Ogdenville,Province B,85f76acc-ac4f-4386-80b5-ec42236e2890,1928,220.04,Office
+8191/86,North Haverbrook,Province A,b557e4d3-91ae-4d5c-b5df-0b24a855d8df,1917,2622.93,House
+8737/8,Ogdenville,Province D,859b9d8f-4800-4e51-9f91-d1d2e6285e31,2008,4278.26,Office
+9694/22,North Haverbrook,Province C,9a71f7bd-2fa6-412c-87ff-ff0241ae9460,1908,2713.55,House
+5356/87,Shelbyville,Province E,566a3b60-44ed-43c4-9407-cdb4075da5ff,1976,Shop,4025.13
+1089/85,Shelbyville,Province A,07cec3af-f6cb-4171-bc91-0bce89069b31,1959,Warehouse,1625.14
+2482/84,Springfield,Province E,5958bec1-bb7d-4099-9845-6d196ff8bced,2012,806.19,Garage
+6420/58,Ogdenville,Province D,83f97d3e-46f6-4529-8b78-65a4daf4ed68,2017,3369.25,Garage
+4327/55,North Haverbrook,Province C,eb878b96-1a6d-4a5d-913c-ab8ef44a4044,1951,3100.12,House
+5862/10,Shelbyville,Province A,aef6d80b-6945-49f7-85fa-e6fd5e0d83bd,1906,Shop,419.98
+4992/80,North Haverbrook,Province D,f44c3c50-5828-4f49-8c81-b365413e8491,2009,3568.89,House
+9989/24,North Haverbrook,Province B,7bc2d194-9c72-47a7-8cb1-b1edd8b89ebf,1965,83.54,Garage
+2817/96,Shelbyville,Province B,b42f7ffa-fb9a-48e9-be53-b21670558319,1908,Warehouse,750.57
+5056/98,Ogdenville,Province B,6f550e1a-be6b-4d26-9934-fbc2a460cd6a,1945,4229.48,Shop
+6377/32,Ogdenville,Province D,c8cb5b13-1601-4431-979d-907c73576af9,1927,3276.62,Office
+2430/77,Springfield,Province A,a95fb7bb-4a28-45ae-b74b-2b2cad94bb37,1997,3092.17,Warehouse
+7482/92,Springfield,Province A,54c3522b-e575-4b51-b120-dac35099ded7,1945,4485.88,Shop
+6469/20,Shelbyville,Province C,3c39b311-7c65-492d-982e-d7da68a86cd7,1933,House,1276.72
+6761/64,Ogdenville,Province E,3d308eb7-27c9-4db9-bf15-35cf4389c4ec,1918,1643.19,Warehouse
+9064/52,Springfield,Province C,4e392e8a-f481-4278-a848-cbadf9336d2c,1941,1854.54,Shop
+2433/16,Ogdenville,Province A,fce35777-91cb-4a47-8af9-6487f02e3817,1904,1234.81,Office
+7955/70,Shelbyville,Province C,b96f256d-3fa7-430c-a271-55a22f6da9a4,1976,Shop,1991.21
+1620/75,Shelbyville,Province E,e9d348b5-ea61-45af-942a-91dae2930dd8,1967,House,3686.77
+8620/95,Shelbyville,Province C,f98dd4db-ac29-49ef-a24e-53f59000af20,1995,Warehouse,4059.58
+1341/12,Shelbyville,Province C,77bdf995-cbbf-4261-9026-4058c00d2847,1958,Warehouse,29.4
+9063/53,Ogdenville,Province B,044e67c7-3c5f-4a40-a1c0-5479162d40c0,1907,4949.59,Warehouse
+4511/60,Ogdenville,Province C,9d79f78c-6fab-4562-835a-db005bad1f9c,1964,1986.39,Office
+8972/60,Springfield,Province E,f037b76f-a685-49bf-b3ef-69335e3622c6,2008,3660.99,Shop
+5007/45,Shelbyville,Province A,f19eff7a-734a-44ab-bd61-b386e69f5a26,1906,Office,4904.03
+7789/27,Springfield,Province C,a29eeae9-746f-45cb-a683-a3338240bed8,1990,1030.69,Shop
+4966/45,Shelbyville,Province E,26253255-29b9-4c8f-9c32-f5eca7100667,1917,Office,3744.43
+6532/7,Springfield,Province E,e29fdfe0-56f0-4c28-b854-a1a25890f938,1972,4540.85,Shop
+8848/19,North Haverbrook,Province D,38290e43-71d1-453b-8aff-0562430766da,1913,220.44,Shop
+7846/27,Ogdenville,Province A,ee9555ce-b9d9-42fd-be57-427e12a927ff,1986,2029.47,Office
+9868/73,Shelbyville,Province C,c3233798-864a-45ee-9468-bc10b8619df4,1957,Office,2884.42
+9200/53,Springfield,Province B,6d8bbcbb-79bd-4c93-aaa7-1b34ff1f4cff,1972,4685.84,Office
+6388/83,North Haverbrook,Province E,b63b08eb-59a4-4af0-95e5-dbdb9d6f6635,1910,831.38,Shop
+7999/93,Shelbyville,Province D,60afa9a9-7a1e-4cca-8ace-97ba483154ec,1901,House,2540.07
+6668/60,Springfield,Province B,cef1cea7-5e53-4baf-923b-a674df41c89b,1914,1795.47,Garage
+2263/17,Springfield,Province D,411b08be-56e0-49ff-a58a-b637a3fa1205,1910,121.42,Office
+3842/71,Springfield,Province A,7013d789-ad4c-4db1-b9c6-2c1118383f88,1923,2139.28,House
+4754/62,Ogdenville,Province E,62f60b22-ba67-4e9b-b32c-c01dd67d8b1d,1928,345.39,Shop
+9229/54,Ogdenville,Province B,d1ad6974-5350-4907-bd03-d3a3b374f878,1977,4865.0,Warehouse
+5735/27,Ogdenville,Province D,92ca3110-bd1c-4f3a-a0fc-173bd2c0cb1e,1945,210.61,Office
+4080/88,Ogdenville,Province D,a946539c-fd4d-4a67-892c-b4ab95aa14bf,1948,3710.67,Shop
+5677/30,North Haverbrook,Province B,47521866-31ac-43e4-a815-b59044be34fe,1951,3439.66,Warehouse
+4751/95,Springfield,Province B,9faecabc-91fe-4c3a-b8df-630c2ea35f78,1931,211.23,Garage
+9608/25,Springfield,Province E,274cf9d4-67f8-4ac8-b512-51c98c6a7cea,1901,1368.38,Shop
+4189/66,Springfield,Province C,b89ff407-12b8-4fae-8483-d0b99d6812a7,1947,3892.18,Office
+6548/77,North Haverbrook,Province D,37cf2713-e054-4020-9209-79efe5d8aa25,1905,3385.05,Garage
+3189/95,North Haverbrook,Province B,2f7651ab-34a2-483f-946b-97b9d244ab85,1988,1597.75,Office
+9358/25,North Haverbrook,Province C,ba8ce13f-7a7c-479c-a369-3a86d6f02ed0,1924,4145.92,Office
+1196/7,Shelbyville,Province A,a97be6cf-f1d0-48fc-97a6-9e59fc5f15fc,1974,House,4398.54
+5882/57,Ogdenville,Province C,539d8777-598b-4cc8-8a52-2f6fd61a7e7d,2001,396.27,Warehouse
+4718/57,Springfield,Province B,3d0176ac-a2a2-4718-a3b3-da3e74e309d1,2016,1964.84,Warehouse
+1649/83,North Haverbrook,Province D,49d6f6a2-e90d-4140-9e2e-f6ffd609fb1a,2019,4459.26,Office
+2370/84,Shelbyville,Province A,c2899155-2d9f-438f-a60c-24f0abcb7cf8,1906,Office,1163.16
+6275/57,Springfield,Province D,0b2a4fbf-ba9c-4055-8ddf-41db87b9070a,1935,3393.73,Warehouse
+2458/3,Ogdenville,Province E,a7422994-260a-40cf-a39c-92a2c2fc68e2,1977,3633.58,House
+8596/65,Ogdenville,Province B,0ddcb13c-f77c-4c7a-85e1-8ad092e96f13,1921,3606.3,Shop
+9388/15,Springfield,Province E,89968ea6-4f2a-4183-ad87-f174f43e4373,1950,2612.68,Office
+2422/17,Shelbyville,Province D,84b0fc49-3d92-42a6-8a07-d091c5613281,1958,Office,4248.21
+6876/8,North Haverbrook,Province E,25aefb99-0f88-4bf0-a003-1237b57e31da,1920,246.47,Warehouse
+3542/7,North Haverbrook,Province C,b3f31cea-0781-4bc0-91bf-827474369935,1945,2236.45,Shop
+7594/49,North Haverbrook,Province D,3a4faa4a-7b40-447a-8ce1-2120cca8cc36,1996,4108.57,Shop
+8745/74,North Haverbrook,Province C,c17d415c-e20e-4be8-b855-986a3867c562,1969,2853.34,Office
+3748/41,North Haverbrook,Province E,76337295-07a7-44d6-a26f-919c983a72fc,1980,1032.71,Warehouse
+7138/38,Ogdenville,Province B,05a47a5e-cca8-4dd6-84a9-8f50e2dd7a60,1968,225.6,Office
+7999/26,Springfield,Province B,d234ddc3-f979-4011-aae4-eba4bf3e8586,1928,816.92,Warehouse
+8673/67,Springfield,Province D,55ebba73-ca4e-45e5-81db-c8af54aacc81,1955,196.91,Warehouse
+6927/28,Shelbyville,Province A,d2ffab8d-d40b-4788-898c-58233eb09e4b,1945,House,3151.63
+9814/41,Springfield,Province E,c4bf6b55-4c09-4a8e-9674-000c37cfe4cf,1912,3918.55,House
+1631/6,Shelbyville,Province A,f546aad5-7aee-4196-be5e-231afdef2a21,1996,Office,4778.08
+7877/9,Springfield,Province B,a38de0d2-1952-4a97-a136-d035bcb66cf1,1932,2598.17,Garage
+8344/20,Shelbyville,Province A,ba4b69fb-3a0a-4817-b6f3-913ca63aa0c4,1947,Shop,2441.5
+7992/78,Shelbyville,Province E,b9f4c9fc-2399-41bd-8b2e-9c480451c3ab,1950,Warehouse,3579.43
+9075/48,Shelbyville,Province D,949d870c-858e-4cc5-b08b-92da58804cc3,1987,House,3983.52
+4315/81,North Haverbrook,Province D,45732dd8-8794-4578-91cc-c239966f6c7b,1996,1695.31,Warehouse
+2120/77,Springfield,Province B,3cc4d206-580b-4f4c-bb87-d0b2d68b81fa,1916,2673.21,Garage
+3222/88,Springfield,Province A,8e92f18f-daa7-44d0-b077-a7819f3a850d,2004,4350.26,Shop
+5427/12,Springfield,Province E,088cb20b-206d-49e3-aa9b-29030167a624,1968,2745.27,Garage
+1464/5,Ogdenville,Province B,d4f6e896-e86c-4712-8aaa-21106d405c77,1989,2805.85,Warehouse
+4882/57,North Haverbrook,Province A,2235098f-1fbe-4592-878f-3c797c628d9b,2023,702.17,Shop
+6036/64,Ogdenville,Province C,31ed1b4d-fb0a-49c6-97f9-af1247b4fcd9,1990,1150.7,House
+6157/9,North Haverbrook,Province D,24a22ad3-d048-4e5c-be8c-862cb24b2574,2025,3880.99,House
+6223/63,Ogdenville,Province E,8fd3dbf4-cb77-4f10-a0f2-d00e7a66f4f0,1986,3280.53,Office
+6906/10,Ogdenville,Province B,4a97584a-fea4-460a-a9cb-53679f1e9fce,1933,2661.41,Garage
+4979/32,Springfield,Province A,6f371c45-af64-468f-a618-d9a2f2f90bdd,2020,103.13,Warehouse
+8647/22,North Haverbrook,Province E,e4d6b8ed-60cf-4ae2-9f32-2771378e438d,1922,55.09,Shop
+7811/33,Ogdenville,Province A,da14ba15-b057-4eec-8446-eb57382d6fa6,2008,660.67,Office
+1005/66,North Haverbrook,Province E,ae81a684-cb9c-4beb-a90f-897c47c89483,2001,842.98,House
+3577/20,North Haverbrook,Province B,1c0ef9d9-cf1f-46fc-b610-8f7f64a4cded,1956,1040.88,Garage
+5682/34,North Haverbrook,Province A,fb9680af-01e4-4fda-8d6c-616e9c567373,1930,272.33,House
+5597/90,Ogdenville,Province C,0bde8004-36b0-499c-9958-c9322d156610,1984,3237.19,Warehouse
+8734/69,Springfield,Province E,40030adc-2023-423d-a800-a8031ff0e0ea,1912,4257.36,House
+6773/48,Springfield,Province A,1bc479dd-68a8-4d22-9447-42d03e797eea,1926,2126.97,Shop
+6577/91,North Haverbrook,Province C,626473e4-36f8-40c6-a152-3d09fbffd59e,1923,4115.31,Office
+6289/97,Springfield,Province C,b8407286-8548-4c55-a5ec-7e5601160bfc,1965,2632.77,Garage
+6106/33,North Haverbrook,Province A,d90ecc62-994c-49f2-802f-df74eba56eeb,1914,2518.04,Shop
+2133/69,North Haverbrook,Province B,d8eddbb3-f1d2-4230-81cc-48f1994cf2ea,1971,2833.86,Shop
+6304/34,North Haverbrook,Province C,a2626757-a7e0-48d4-ad69-c8863e308a5e,1903,2926.6,House
+4233/28,Shelbyville,Province B,9af64b5b-5a6f-4ab5-8785-234b0f082196,1987,Warehouse,1405.2
+5751/8,North Haverbrook,Province A,75d5f223-358c-4844-847b-5f88274e8d3e,1937,4425.83,House
+2769/53,Springfield,Province A,1854f212-8247-4889-9f77-a42a66f731db,1989,1114.6,Shop
+5576/84,North Haverbrook,Province B,6830e0c4-9d72-49fb-9268-9466635ac5b9,1913,1944.72,House
+1929/54,Ogdenville,Province A,5b5e8723-3205-4360-a5d5-5d4b0bf498e0,2022,2519.96,Shop
+1269/18,North Haverbrook,Province B,1cefdbe9-2ce8-4078-8c2f-77acbf8d515d,1968,4692.48,Shop
+9302/44,Shelbyville,Province C,094fb1c8-c775-42f2-899f-40ee86b7d822,2020,Warehouse,354.2
+8327/32,Ogdenville,Province D,f5738d89-4b2e-45d6-8cf3-fefa57b2eed6,1992,393.56,House
+8477/87,Shelbyville,Province C,cc9add75-ea46-4628-9f0c-f89b857304f7,1921,Shop,3134.58
+7550/31,Ogdenville,Province A,4484c887-bcf2-4416-a451-2cb7d59cc1c9,2025,906.43,Garage
+2757/99,North Haverbrook,Province B,1f355304-715b-4e8e-b590-1facdc6e95ef,1908,3788.78,House
+3244/40,North Haverbrook,Province A,5db811a9-f577-4fdc-8830-f5c1d0c99df9,1908,4819.15,Shop
+4786/25,North Haverbrook,Province A,45155afa-c1ec-4443-a796-d6cc09c0e2d6,1975,3348.78,Office
+5821/91,Springfield,Province D,fa564994-aa8e-4473-8e3b-ca12459eb7cd,1913,4469.92,Office
+8301/48,Springfield,Province C,cf8acd60-31cb-4443-a16e-119943fa6aaf,1907,380.19,House
+8823/55,North Haverbrook,Province C,a9d8842a-e3db-4fc3-9523-8d631f17cc28,1929,4359.95,House
+9702/94,Springfield,Province E,42568426-3dee-489c-bb91-65938c8c780f,1979,2318.4,Garage
+3415/91,North Haverbrook,Province C,fd278877-b446-45b7-abc0-85ab34aa9048,1922,2396.15,Office
+5318/22,Shelbyville,Province C,1f0958df-97aa-4d20-803e-bbb5f3695b14,1922,Shop,925.79
+1344/40,Shelbyville,Province E,94ab2bf0-25c3-4f5e-8604-6669a4419c9c,2018,Warehouse,3278.35
+6337/38,North Haverbrook,Province E,e57909ac-cde8-4203-9acb-18b4540aeb9e,1998,1207.12,House
+8236/86,Springfield,Province E,f12e01c7-241c-4794-bcc6-0f9d847a55a5,1955,3647.53,Warehouse
+1694/17,Ogdenville,Province A,7bcdc03a-c65e-4563-b05d-027037ee8255,1925,2103.85,Warehouse
+4792/35,Ogdenville,Province C,239a14db-94bd-4c6d-a6f9-93f5470453d9,1922,2162.18,Office
+9088/64,North Haverbrook,Province D,dcfcbdb1-4b01-47c6-9cf3-2216bd8824be,2000,1527.18,House
+3624/88,Ogdenville,Province A,96c9481b-d9f1-4d88-a38a-9959e7c9a275,1957,4537.86,Shop
+7442/58,Ogdenville,Province C,20372439-c66d-417d-8379-0ecd950e8bb8,1942,2286.7,Office
+8870/12,Springfield,Province B,e020642c-17e1-49ef-aeb2-945e1485ceb6,1902,2932.55,Office
+9016/39,Springfield,Province C,cb021911-8251-44ca-b746-6c5efd0ab8df,2002,3901.41,Shop
+5738/19,North Haverbrook,Province B,70c73605-40ff-469f-9d3d-1f3d56e3b9d9,1957,3834.81,Office
+7864/48,North Haverbrook,Province E,4d745e6d-0483-47c8-ab44-215d968cb9d4,1992,2203.25,Garage
+8758/59,North Haverbrook,Province B,53bdfc2c-3adb-4083-816e-bdb654f7a36c,1983,4949.86,House
+7191/7,Shelbyville,Province E,831cd059-456d-489a-a62d-769461bc5e09,1971,Garage,3557.01
+1047/57,North Haverbrook,Province C,8d6035d4-eb38-4b38-8c8b-afae06016068,1929,1034.2,Garage
+3679/39,North Haverbrook,Province C,729ac8d3-a501-41eb-926a-5796159d2be4,1901,4184.32,Office
+5260/78,North Haverbrook,Province E,60b7acb0-4877-4a5c-bc05-dcfce4f20483,1999,3349.22,Office
+1971/83,Shelbyville,Province A,cc5a1413-7b70-4950-9370-7450ea99f69d,1919,Warehouse,951.72
+6604/62,North Haverbrook,Province A,049d9949-22c7-4817-adfb-76bec8f5e7ab,1926,2868.29,House
+6219/6,Shelbyville,Province D,6512ac04-ac94-4282-9967-0b2dc87a66ce,1936,House,2762.66
+7084/65,Ogdenville,Province A,37824a7f-6559-4b93-9295-c76d1a67c607,1954,2517.6,House
+9575/57,Ogdenville,Province A,7faae48e-2aff-478a-ad49-4241cc6b8938,1952,3904.62,Shop
+3991/2,Ogdenville,Province E,81aaeca3-5850-45fc-8a90-a1b068b1a852,1964,4475.97,Garage
+1252/50,Springfield,Province D,0e21bfe4-f23f-47ba-9586-7f59e9705ee6,1945,3151.75,House
+2638/76,Shelbyville,Province D,10a5582f-8a4b-42d8-85b4-d7893175390d,1916,Office,2770.97
+3776/76,Ogdenville,Province A,a2ef912e-9cd7-4695-ba98-f031b9fd853b,2021,4480.71,Shop
+1920/76,North Haverbrook,Province E,9dc60bbd-0828-4e0b-9f67-b0507bd941ec,1914,3495.08,Warehouse
+7927/30,Ogdenville,Province E,f340de36-01b7-4108-b2e2-f7831c5f9655,1956,2860.01,Warehouse
+6042/1,Springfield,Province C,ed984a53-32b2-4cdb-bf85-6c0e0dcaa5bf,1950,3639.59,House
+3434/6,Shelbyville,Province C,dda46347-a3ca-4b51-8dee-5d9478e0be88,1937,Office,1685.31
+7723/78,North Haverbrook,Province D,b4a02235-d4f9-4162-bd06-a1d522176801,1941,4725.95,Warehouse
+5339/8,Ogdenville,Province B,e4464764-588a-4dfa-9302-d58a68c9e895,2009,3555.96,House
+6174/36,Ogdenville,Province A,ccb3c524-78bf-44ad-a3ac-95783ac31499,1963,2789.1,Office
+4343/66,Springfield,Province B,39f3ebee-555b-4476-b5a0-75f29ff3b557,1979,1870.24,Warehouse
+4398/80,North Haverbrook,Province E,87d4164b-4352-4f41-ae11-528505bffcdc,1983,1285.1,House
+4269/41,Springfield,Province B,eec0ddc8-a9e5-4b8c-a15f-8924270a8edb,1934,2384.59,House
+2609/45,Springfield,Province D,e6828c1b-fd50-4733-874b-35373713d9e0,1997,1870.8,House
+1857/70,Springfield,Province D,9725b11a-3ce2-4b48-b6e8-4c563333ce8f,1989,3672.47,Warehouse
+4734/53,Ogdenville,Province A,e024c376-19f6-42af-8855-c2612ce877ca,2001,3051.57,Garage
+3505/71,Springfield,Province D,08f43953-69af-4402-8b09-597e3bb56018,1909,351.08,House
+2204/92,Ogdenville,Province A,f697bd7c-669d-48b5-9a7e-82f453b7586e,2015,1753.21,Shop
+6499/19,Springfield,Province D,c6001ad6-3bdc-4bf5-9a6c-0840135a7ee3,1943,2357.11,Warehouse
+4978/40,Shelbyville,Province D,fa0ced60-b7b1-41b2-bac3-6ae5e558d960,1921,Warehouse,3323.06
+6698/54,Shelbyville,Province D,6eb11c4c-a302-4e4c-bb6f-43fdfc7ab115,1957,Garage,1120.7
+9756/54,Shelbyville,Province E,1ab575bf-1a28-4700-81c0-64b7018a50a1,1908,Office,2315.95
+1438/73,Shelbyville,Province E,46d25c9d-0a25-44eb-b322-c2636bf34a63,1953,House,600.35
+8990/11,North Haverbrook,Province A,3063f83d-ab86-44c7-9eb9-39b6ce541079,1959,2439.3,Shop
+2019/97,Ogdenville,Province C,5b19325e-74a6-4305-bbdd-2d1d4649c5ae,nan,1022.99,Garage
+4778/61,Springfield,Province D,8fb86187-3bdb-4f0d-b6a5-d7db544d03e5,2015,4841.3,Office
+2187/31,Shelbyville,Province E,18d1bc72-5455-472e-87a3-41f9d2a1bc64,1999,Office,4385.47
+1021/49,North Haverbrook,Province A,40275300-0522-4b28-928f-c2d9d2940e2b,1999,4509.77,Warehouse
+2444/96,North Haverbrook,Province E,c465d41a-bbb1-40ec-a672-32c1bcd84b14,1904,1915.63,House
+1179/60,Springfield,Province B,3a90ed44-862a-4cee-bf86-015a21894d5a,1917,574.89,Warehouse
+4875/76,North Haverbrook,Province E,3e59e014-3b8f-4a96-9af2-75cad4194e32,1958,2228.77,Shop
+3635/37,Springfield,Province A,c718cb4b-090a-42d9-8de4-c7c6e52fc73b,1991,3079.41,House
+4855/69,Springfield,Province B,cdb22a7f-b602-4332-a9b0-5d7f94762151,1914,4525.97,Office
+1515/91,Shelbyville,Province B,3a8b1df0-aa73-43e6-b4bc-214c70742ba7,1941,Garage,1323.38
+1407/4,North Haverbrook,Province D,3843e41c-d7b6-49d0-9252-13c536bd48c6,1940,4557.57,Shop
+5284/89,Ogdenville,Province E,7674268f-916b-4689-adb2-031691bcd48c,1988,462.83,Warehouse
+1782/31,Shelbyville,Province D,99ab6f74-8929-453e-ba45-dbf74cd696cc,1980,Shop,2935.1
+3327/28,North Haverbrook,Province C,e2d0a36a-747a-4b82-8481-f9785de6b5b1,2013,4221.15,Warehouse
+7744/83,North Haverbrook,Province B,23923508-68ed-4a19-acc0-0f442ff65a1c,1947,667.26,Shop
+4581/30,Shelbyville,Province C,fb59bf71-82f4-4f81-9124-4554ffa252a9,1942,Warehouse,4462.35
+9477/89,Ogdenville,Province D,accb0e4a-53df-4598-a1b7-24d372d45bb4,1933,1395.14,Garage
+7076/61,Springfield,Province D,06be4103-6086-4002-b4e4-4cd60038a18c,1922,3592.71,House
+7220/63,North Haverbrook,Province D,0b77465b-4af7-4564-b074-c9a8136a7a0b,1950,635.05,House
+7185/58,North Haverbrook,Province A,4418efb2-78d6-4572-8c11-3f59f6c00505,1934,1469.65,Warehouse
+5595/98,Ogdenville,Province A,830e846b-f08f-48d3-aa9e-d43186c162a8,1963,3582.21,Garage
+4501/64,Shelbyville,Province A,41f57e26-3e27-492f-bbf8-95f7164cff89,2014,Office,3525.73
+9593/34,Springfield,Province E,1063e0f8-5ace-431d-bf78-33759883dac0,1984,2137.08,Shop
+2777/93,Shelbyville,Province E,c9bda8af-7f53-4b71-8fd3-2ba584260828,1973,Office,4642.94
+2123/83,Springfield,Province B,1787e457-cec8-4533-b0e7-6e8ed5321e62,1912,2997.66,Garage
+3890/19,Springfield,Province D,f0c3f42a-e0e6-4819-97ce-eeeeb0f56f7e,2000,2839.92,Shop
+4359/73,Shelbyville,Province A,b8fe1974-4ea0-4d86-9045-a3857abb7d3e,1969,Shop,2705.29
+5457/66,North Haverbrook,Province C,7b78018d-8c2c-4f30-a075-8688f4ab951b,1934,981.46,Office
+4440/66,Springfield,Province A,6f13b26e-947c-4bfb-858e-622d43e4bbc5,1948,3464.45,Warehouse
+6696/76,Springfield,Province A,4c4d7eae-1b38-43c0-92a9-62930324feb9,1987,960.13,House
+2784/10,North Haverbrook,Province E,1766ad6d-c281-4ad7-9b7a-46ebeea62544,1990,1401.44,Garage
+2451/7,Springfield,Province A,d2d4942b-7a86-4b39-be16-e8c0ef3c8eff,1904,382.61,House
+4673/61,Ogdenville,Province B,9578d78a-1b17-48ca-9a01-0711690452a6,1981,934.59,Office
+4352/69,Springfield,Province C,12c64ab1-2ef7-4156-b043-3a99d94382f1,1900,3295.47,Garage
+7138/22,Shelbyville,Province E,a241a51e-bf98-499d-9b11-b18b17c13de3,1925,Warehouse,1819.69
+5004/84,Springfield,Province B,09982cb2-16fb-4de6-be68-9b7c6f9a6548,1934,3804.16,Warehouse
+3619/69,Ogdenville,Province A,b01d89b4-001e-4493-bf2c-1f0422c18822,1920,872.04,Office
+3892/4,Springfield,Province D,5b2a90c1-fd3d-4b59-8e06-e3666cae43e9,nan,3044.79,House
+3902/9,North Haverbrook,Province E,332f243b-8be9-44d2-aa2d-f0990347b1a4,1989,1712.06,House
+8104/93,Shelbyville,Province C,df9b98aa-6ad8-4b40-96e0-fabcf883b38d,1902,Garage,608.35
+4318/58,Springfield,Province A,a471379b-df13-4efd-a01c-e8d45685ac42,1986,2990.67,Garage
+6979/58,Ogdenville,Province A,84d06a39-40d3-4aa0-8ab5-55879ad862e8,1953,2857.14,Office
+4054/85,Springfield,Province C,7add16a7-83d0-4690-a5a4-0e0e33ef4fce,1952,964.04,House
+4266/4,Ogdenville,Province E,328667a8-aa23-43d3-9cc0-e67a2f80207b,2003,216.92,Shop
+7008/45,Shelbyville,Province B,b89d3d1b-4110-4c04-a038-aa04caf8dc1b,1977,Shop,4016.82
+7237/18,Springfield,Province C,902b8ba6-5562-4e88-ab6e-18306c77cd06,1970,2873.29,Warehouse
+5141/36,Ogdenville,Province C,08b158b5-43e4-435a-89e7-9956054b4380,1904,4878.78,Garage
+8675/88,Springfield,Province C,26c06d34-253d-4065-82b1-cc52cb834445,1900,4022.48,House
+7626/39,Ogdenville,Province A,0510ac8f-3f7c-4cc0-8590-15084a0abd22,1995,3807.16,Warehouse
+9460/41,Shelbyville,Province C,31c64321-5515-4385-9ba6-4ae2377fb51a,1990,House,1794.53
+3571/24,Ogdenville,Province A,7866c6d6-62a0-44b7-9b4d-aa9b469686e3,2024,2685.4,Office
+8808/60,Ogdenville,Province D,7ee790f9-f642-4c43-8175-2cd90f0cf041,1964,2549.53,Office
+8167/85,Ogdenville,Province E,b1371a47-3c6d-442f-afdc-1a361c42087a,1925,4314.05,House
+4560/21,Shelbyville,Province C,e422181d-a7ad-4dbf-b986-ff90dc214fa0,1959,Garage,1501.72
+6314/17,Springfield,Province B,639d8ea0-154d-474e-bdd3-99bc648becef,2019,1802.44,Office
+3917/78,Ogdenville,Province D,f475b991-89bf-414d-885c-cea7b0d880ec,1970,3309.09,Office
+8200/43,Shelbyville,Province A,101132f2-06bd-4347-9656-dead21ce1608,2010,House,4458.41
+8787/5,Shelbyville,Province A,2be22b0e-6e86-43e3-9d0c-5bc28760c57b,1906,Office,1270.25
+3336/89,Ogdenville,Province D,4bf973c0-b099-4f19-8786-407041753ead,2014,720.83,House
+8071/48,Springfield,Province D,b618275e-758b-4ae2-8bf8-db26be3a6418,2008,233.72,Shop
+5528/44,Shelbyville,Province C,0c33fe25-5582-4195-a0d6-edf12b6bfc8b,1981,Warehouse,1975.66
+1959/50,Ogdenville,Province E,d4826004-4859-4031-9cf7-eb262ba1d060,1904,2630.69,Shop
+9344/33,Ogdenville,Province B,4436084c-413c-47d4-aec2-82ad6faeedac,2012,152.35,Shop
+8067/29,Shelbyville,Province D,86fc0461-707f-43dd-aac0-6d005947795d,1967,Office,1999.34
+5837/30,North Haverbrook,Province D,8e801bd9-7821-487b-9471-83b481fc9896,1902,4476.28,House
+3705/7,Ogdenville,Province D,166218f1-b8f3-4ded-bc28-0227b7739979,1906,2665.58,Office
+9231/85,Ogdenville,Province C,9c62bb44-da38-4d7c-bd80-0b162674406b,1900,1605.21,House
+6773/45,Shelbyville,Province E,048298d2-94f3-4e84-9a48-99ed966c9cb0,2021,Garage,2136.99
+3950/5,Springfield,Province C,f390fbdf-038e-4e10-bf21-a18da952bf3a,1914,2739.08,Shop
+9679/11,Ogdenville,Province D,ab56bad2-2eff-488d-809d-66e51fdb9325,1942,2144.81,Warehouse
+1123/43,Ogdenville,Province C,486a60df-6b7d-4cf7-abf7-915373ac7bef,1951,766.31,House
+1987/83,Shelbyville,Province C,40969dca-e17d-46b4-90be-b26d70d80d23,1997,Shop,2371.09
+2739/67,Springfield,Province B,221d7672-807d-4fd8-a760-692c160ac549,1963,2674.35,Garage
+8758/31,Ogdenville,Province B,963e3b23-7f44-43f3-9879-71febdc7dcc6,1926,4777.62,House
+8888/17,North Haverbrook,Province E,723b2be2-cdca-477d-833a-537394e9a954,1958,4484.9,House
+6655/41,North Haverbrook,Province C,9ec58daa-8ba9-4037-aad5-78fa038a9f9d,1984,261.06,Garage
+9319/81,Shelbyville,Province D,8f18267d-e2be-49dc-8531-2e02d7bca4a4,1983,Office,1383.11
+7528/54,North Haverbrook,Province C,6284b6f1-ae93-4cae-b27d-51de871a07ca,1942,3933.81,Shop
+5402/58,Shelbyville,Province B,53bc6575-d822-4811-8b30-8561542c6268,1910,Shop,2481.74
+5457/89,Shelbyville,Province C,97b22024-b50d-4a0e-bada-0b4abf629e29,1954,Warehouse,4732.79
+9618/64,Ogdenville,Province D,fe46e951-e373-48c8-bf69-30a88353e39c,1995,3473.02,Shop
+8786/13,Springfield,Province E,cb1c5502-6873-4b02-ae53-e315d6e304e3,2012,687.6,Garage
+7099/14,North Haverbrook,Province A,18186a0e-d687-4116-a7e9-44557b07ffcd,2021,2839.21,House
+3125/90,North Haverbrook,Province C,01f04870-38f7-4358-bf0f-8a477345250c,1937,2416.43,Office
+1773/38,Springfield,Province D,ab0e14f5-5ac9-4381-8736-78be1ea1a67b,1928,4310.19,Garage
+1659/9,North Haverbrook,Province E,2464e065-97fe-44ec-adbe-980ecf8da228,1966,1204.62,House
+2085/55,North Haverbrook,Province D,d40eb356-5e78-4fb4-b882-98457dbe4f5e,1943,1716.43,Garage
+7227/27,Springfield,Province B,88214939-1acf-4d56-846c-435f15081ecd,1932,3665.88,House
+5949/67,Shelbyville,Province B,fa0c5db4-8976-42cc-9a63-39d352285fb5,1970,Office,1206.45
+8109/28,Ogdenville,Province B,29ff819b-7779-4aa3-a718-7d80fe57d224,1945,4163.0,Shop
+3215/29,North Haverbrook,Province C,d9528ed9-93a5-4c63-b1d8-306aa594038d,1989,140.15,Office
+2800/73,Shelbyville,Province C,acd29f8a-a882-4761-b9b4-c77b2f5a6905,1986,Office,2971.33
+7784/82,North Haverbrook,Province E,21b6fd0b-12ff-4567-9f8c-354e357d695c,1956,3003.99,Warehouse
+4477/80,North Haverbrook,Province A,0e191c77-4387-4d7b-934a-a93ba3671a6f,1925,3971.66,Garage
+6231/54,Ogdenville,Province A,9c0a2c36-48d6-45b7-acc9-dcda4e9bb34b,1934,174.33,Shop
+3438/93,Ogdenville,Province C,5589b149-15dc-4dc5-a7e5-f7181d3669d7,1959,1975.3,Warehouse
+5311/4,North Haverbrook,Province A,7a11b3ec-fee8-4297-b8f9-91527bbab85d,1954,3734.59,Garage
+1752/9,Springfield,Province A,323671b7-66d0-41a0-9d4c-2427ce452124,1962,3437.31,Warehouse
+3832/72,Ogdenville,Province A,4648f1d4-1a7c-4710-a5f8-8d6534f6551c,1922,1443.81,House
+1705/92,Springfield,Province E,e889d10b-1df5-404b-aff1-1ac3b912db75,1934,2434.83,Garage
+3966/85,Shelbyville,Province A,5ca28cb3-cbc1-451d-920d-5e964a4f78fa,1917,Office,1509.71
+6653/80,Springfield,Province B,ef9ab82d-cbef-459c-be31-0c435e9ae081,1971,1249.59,House
+9244/52,Ogdenville,Province E,cfa4d226-1ff1-45dd-a9c8-669f62c6669c,1939,896.51,Warehouse
+8363/10,Ogdenville,Province D,b1aeea66-1dfd-48d6-8fb9-9bc28f959798,1913,835.41,House
+3104/55,Springfield,Province B,cb88ae41-095f-41f0-a72f-df22553e25ec,1916,1152.71,Office
+5309/18,Shelbyville,Province C,5d5840e5-8251-44ff-9ebe-3c80b1158527,1951,Warehouse,4606.0
+6554/51,North Haverbrook,Province A,77b495f1-7557-4a0a-a285-bc6f170b0823,1989,4823.71,Shop
+1985/66,Ogdenville,Province A,7de1e0a5-0778-43ab-8f0f-3dffa9149660,1984,3319.3,Shop
+6140/90,Ogdenville,Province B,05cd76f9-8108-4434-ad73-ec345425e53d,1993,1743.02,Shop
+6520/94,Springfield,Province D,46790f30-d705-450d-9bd4-ead707763294,1969,4487.03,Shop
+3511/44,Shelbyville,Province D,24def042-b881-4380-99ca-0dc432fd8ae1,1948,Shop,2264.35
+8338/41,North Haverbrook,Province E,6a55346f-4f22-4b6c-8b1a-5e9ed512ed35,1982,2708.63,Shop
+9460/92,Shelbyville,Province B,fb3f2a56-c5f1-49fa-a37b-ad76fc2a6cd9,2000,Garage,1624.32
+8222/15,Ogdenville,Province C,82ac2aa6-f54c-486c-b335-f4e9694990b6,1980,436.69,House
+3370/98,Springfield,Province B,3e5c93ca-3c6b-4be2-ab81-22e17e9677e1,1981,360.49,House
+9263/6,North Haverbrook,Province D,4be217f3-a644-4fb7-aa72-09ad5bf87468,1951,382.3,Shop
+1598/69,Ogdenville,Province C,3703540d-0e71-4514-8164-9946e218dbd7,nan,4660.24,Shop
+2610/92,Ogdenville,Province B,a5889946-68e5-4ee7-afec-45de0136891c,1970,1264.14,House
+8040/6,North Haverbrook,Province C,dc86cc85-9130-42da-a7e8-fa3505e0704e,2021,3943.67,Garage
+4415/86,Ogdenville,Province D,17eaa894-78ad-4fde-b03b-1a1be3252717,2007,1491.84,Warehouse
+6858/46,Shelbyville,Province B,02e87ba2-7df3-492c-a919-620192867605,1911,Warehouse,1354.52
+5527/52,Ogdenville,Province B,f4fefca7-f5b3-4a7a-b55c-6830ba15e7bb,1954,2145.85,House
+9742/97,Ogdenville,Province B,fcc9f075-70a4-40a7-a925-a97ceba0c42f,1903,4277.73,Garage
+1051/72,Ogdenville,Province A,0ed8dc54-4e32-412c-8a5e-e7b2736b0397,1902,4714.93,Warehouse
+7529/88,Shelbyville,Province A,13cc28d2-4503-44bd-a0f3-bf3be3bf7dba,1986,Garage,2396.96
+6561/95,Shelbyville,Province C,6e23509a-a232-41b5-be4a-a959e63b97a6,2012,Garage,103.21
+5867/65,North Haverbrook,Province B,eec75880-3def-41c7-9687-4a078da4e69c,2005,1398.87,House
+3879/20,Springfield,Province E,82aa0991-60cf-4d39-952b-779e41a51b2e,1939,1953.63,Warehouse
+2106/2,Springfield,Province E,c4fc620e-d519-461e-98db-84235e868dec,1914,4579.68,Warehouse
+7652/12,Shelbyville,Province E,62b82cce-8838-4115-9336-cc9b1b03e24c,2016,Office,789.65
+9978/75,Shelbyville,Province E,b1a458b5-2165-4816-8b3e-e5410a7df8fc,1935,Warehouse,4348.0
+5503/99,North Haverbrook,Province B,7b1f53e3-caac-4d43-ac91-b848231fe59c,1995,2557.41,Warehouse
+6349/17,Shelbyville,Province B,e253d7f6-548b-4e69-8f19-c6ffe8c03d38,1961,Garage,99.89
+1519/27,Ogdenville,Province C,fd769cbe-9d02-4bb0-88e2-f9388b657b57,1923,3909.87,Shop
+1435/58,North Haverbrook,Province A,d9cd60ef-6e59-41da-a27c-31128e653c86,2019,254.84,House
+5876/16,Springfield,Province D,3725b429-4522-4e5e-a6f3-3e6d284f4cc0,1973,2935.47,House
+4279/19,Shelbyville,Province E,1a3bab5c-ad36-4202-a571-db3c2be8c4b0,1911,Shop,1634.78
+2876/74,Ogdenville,Province E,24eb4f54-21b8-485e-a578-992cfe0a30b6,1976,3445.32,Shop
+7972/67,Springfield,Province D,455bb32e-8c19-44b1-83a7-8478bf0b7e7f,1912,248.87,Office
+1445/17,North Haverbrook,Province C,06f296b6-be5e-4a81-bab5-3314a263dfc2,1901,3293.92,Shop
+8925/15,Springfield,Province C,094b9306-fe9b-42b6-a874-6eca8e1256f6,nan,710.32,Warehouse
+2584/71,Springfield,Province E,a057d818-990b-4f4d-85ce-aab6ccd844f1,1914,2829.84,House
+9152/23,North Haverbrook,Province A,e8a666c4-a8d6-4319-b77d-3f1a37cb1761,1973,3266.71,House
+4597/86,Shelbyville,Province C,14317f77-da45-4a76-a1a5-55cc8a6e1458,1991,Garage,306.43
+8834/33,Springfield,Province B,db57807f-7a70-4f32-8354-60d33529fcc9,1978,4000.65,Office
+4971/7,Shelbyville,Province B,d95369ff-f5d6-4293-902e-c523daa19beb,1937,House,182.53
+3655/58,Springfield,Province A,ab72a3ca-0fc6-4280-815b-1ec24d2e261e,1957,3288.98,Shop
+1135/34,Springfield,Province A,df5ea4c3-3c71-4692-b2fc-1017bdd3ed40,1919,2651.13,Garage
+3232/59,Springfield,Province D,731ec0a7-8bae-4224-aa02-54c87145916d,1923,3507.4,Shop
+5028/23,North Haverbrook,Province D,fac7e52c-7542-4187-bd6d-b66b0ab68283,1939,4334.93,Shop
+3563/26,North Haverbrook,Province B,b9980551-d198-41f2-aa6e-f59282ba2aaf,1907,3029.03,Office
+5784/6,Springfield,Province D,80391c21-36ba-4063-935e-1f0ad8d2a467,1952,4472.33,Office
+1689/55,Springfield,Province C,55e5d898-b8f4-4f15-9d3e-dbcfb7fa492b,1955,4439.9,Office
+3611/75,Ogdenville,Province A,b91bf13e-8aa6-4303-8200-1ee7c1a9aed2,1964,3779.97,House
+3051/69,Springfield,Province C,29789b53-264a-494f-8980-f69b7af23e0b,1953,1706.48,Shop
+5320/82,Shelbyville,Province B,2ce9ae02-12e1-4477-b320-8b7128a9780c,2004,Shop,1559.02
+7821/39,North Haverbrook,Province D,956480fe-bd11-45ca-bd3d-7af69cc17f35,2019,1932.66,Shop
+4942/56,Shelbyville,Province E,78673257-6fcf-4488-a900-a3c43fbcd3dc,1991,Office,1730.34
+8636/8,Springfield,Province A,b662c203-1d25-4cea-99b0-f1195aee8772,2007,3377.4,Garage
+5326/53,North Haverbrook,Province C,62917496-09a2-4be9-bc42-d24229ae378e,1976,1079.86,House
+6761/81,North Haverbrook,Province E,6b928398-fd3f-4b0e-84bd-e840034eb710,1995,3864.12,Warehouse
+8581/74,Shelbyville,Province D,626b6d07-5f32-46f9-bde7-93adf9304e11,1957,Garage,1591.88
+3477/79,Shelbyville,Province C,b0095314-9de1-4e2d-8d54-59e0a9023028,1919,Garage,912.02
+1547/55,North Haverbrook,Province B,41b4c2ba-88cc-4aa5-a9aa-600430765cf1,1989,1416.94,Shop
+9545/17,Shelbyville,Province B,a0ded1e3-092c-48e7-85d0-62583d5a875e,1989,Shop,3178.52
+5509/32,Shelbyville,Province D,e26f5a9c-278b-4853-b0da-ea167b907b2b,2021,Garage,4174.06
+6920/57,Ogdenville,Province D,0ddfab8f-a9b6-4209-9470-fcba53150602,2015,1804.91,Office
+7783/92,Springfield,Province E,86aaedf9-c71d-4d80-8b2b-3e2814d414eb,1901,334.54,Office
+9863/93,Springfield,Province A,115ecc0f-b369-4983-919d-05005d2bfe92,1903,1881.08,Warehouse
+1777/86,Shelbyville,Province D,8c302d65-7887-4694-8ba7-1c2d803531c6,1935,Shop,859.68
+2939/70,Springfield,Province C,de644423-8013-440c-8206-3bf19b317cc3,1904,4289.9,Office
+3573/37,Springfield,Province C,8863a466-5672-41c4-afd8-e06266e03a78,2008,2118.92,House
+1583/88,Shelbyville,Province E,cb4cd595-b76d-48fd-9aaf-80d38fca0432,2017,House,3615.17
+7205/93,Shelbyville,Province E,7e7f89f3-33ee-46a4-aa56-d8689eea5cce,1913,Garage,3877.58
+1556/91,Shelbyville,Province A,35a3ba44-e14f-4848-a466-cda57acbd4eb,1997,Shop,1934.35
+7767/35,Springfield,Province D,47bff6dc-45b3-4aa2-9c16-875f7e6d5fbb,1901,2784.82,Garage
+3723/97,Shelbyville,Province E,7f8de878-c97f-4636-8692-f44c5bdd5741,1900,Shop,857.96
+5665/96,Ogdenville,Province D,1c0ccefd-35b5-486b-a22d-4a45fee07be4,1933,1313.79,Warehouse
+4580/68,Shelbyville,Province C,5804396a-ca7b-4f7d-a9c2-301dc5de4e4b,1999,House,1932.16
+2443/81,Shelbyville,Province E,02a64c44-12d1-4fef-a456-7c34a579de82,2006,Shop,3938.93
+5355/40,North Haverbrook,Province B,04e15f9e-145d-41f4-91ea-0bd705ca29ff,nan,2257.44,Office
+8853/18,Shelbyville,Province C,272a4f86-2c55-4494-a7a1-13a3ee5d355e,1932,Garage,3496.38
+6789/79,North Haverbrook,Province B,1886fc84-5c26-434d-943d-4ba5f1fea578,1907,3174.43,Shop
+5918/85,Ogdenville,Province A,5f554aeb-904a-4b14-814e-8b494772c149,2017,2536.57,House
+1764/44,Ogdenville,Province B,fc53cb5e-eb56-4402-8cac-8f4833a2edc0,1977,2196.22,Shop
+8975/92,North Haverbrook,Province B,6de23545-5a79-4958-8a95-8b6e79199025,1930,399.3,Warehouse
+1210/17,Ogdenville,Province E,a037e2d0-edcb-47aa-bafb-42c8209fbae9,1972,1916.04,Shop
+8219/59,Ogdenville,Province C,fb09c145-3f8a-4b3d-a86d-09538e648894,1940,4772.8,Garage
+3023/36,Springfield,Province B,89562597-003b-4686-b139-6fd548f309ec,1940,3939.73,Office
+9301/23,Ogdenville,Province C,db79e071-3aef-4270-9490-e4a371f0b395,1993,4484.88,Garage
+8450/13,North Haverbrook,Province A,5b796848-b7d1-4aab-83e0-c93205603bb9,2000,4447.89,House
+2840/20,Shelbyville,Province B,61b47410-f405-4387-9cdd-4213068fcaea,1907,House,159.43
+2599/99,Springfield,Province D,3ccecccd-8738-410e-bccc-ff0bdf4ff372,1996,3726.38,Garage
+6362/76,Ogdenville,Province D,50373f1c-5fe2-412c-b6b4-5af7a58b3c87,1978,3158.64,Shop
+9455/81,North Haverbrook,Province D,95c6f635-ba60-4c06-a7d1-14932beb9353,1928,468.57,Garage
+7615/15,Shelbyville,Province C,77b66795-fbd6-4c73-bb2b-9a7871770ec6,1916,Office,230.01
+6240/16,Ogdenville,Province B,bb768959-9f35-4b14-ab26-95d861a42343,1958,3131.15,Office
+6546/57,Ogdenville,Province D,d1eb0ae9-b3ce-43f1-ab05-163031f3f918,1986,3798.1,Office
+8383/67,North Haverbrook,Province D,ae4e6153-e2de-442d-83f9-dc895f08681b,1948,1056.92,Shop
+6467/1,North Haverbrook,Province E,6b3864b4-6391-4d59-8d16-065672f24399,2023,4182.31,Office
+5430/23,Springfield,Province B,2fbed9fb-c681-4a06-a576-582c5edd4391,1972,2995.72,Garage
+4177/14,Ogdenville,Province D,3c6ec5ea-33a4-4f8f-a905-8c4167b35a02,1993,4762.25,House
+7102/60,Ogdenville,Province B,b98e673e-db37-404d-b9a5-aa7c39d6197b,1986,3766.27,Office
+8805/27,Ogdenville,Province C,30b31baf-d534-4646-84c1-ffae3474a29f,1937,3311.19,Garage
+4227/1,Springfield,Province D,d5b4de1f-d498-4b8b-87fb-ec0140eff9c1,1959,752.28,Garage
+1437/37,Springfield,Province B,d4accadc-dab5-4005-9c18-278803d1deb3,2014,307.55,Shop
+2658/81,North Haverbrook,Province E,f5de0d9b-8979-4d43-a0cf-7d82ff5ca784,2013,2337.66,House
+7044/15,Ogdenville,Province E,272a0e6c-7712-4a75-a872-ef7e3fa57128,2003,367.2,Garage
+6109/60,North Haverbrook,Province D,be62d5a7-ae92-44cb-9555-463d32d9b333,1998,4021.71,Office
+6268/73,Ogdenville,Province C,59f7d696-0e8e-4021-ab3e-735ce9f79382,1940,3416.87,House
+1933/47,Springfield,Province B,1410f3f2-31c3-448a-b4ac-9434236d051a,1913,4782.08,House
+1257/45,Ogdenville,Province E,b5ce95d4-03bf-48f4-a4fa-ca3cefde1102,2011,753.54,House
+4905/6,Springfield,Province C,79e563d5-6e59-448a-b2c2-b1571e9f7b28,1900,1754.16,Warehouse
+6678/43,Shelbyville,Province B,0dbe50af-0b89-413b-82cc-bd50102e8f7c,1990,Garage,4025.04
+3551/86,Shelbyville,Province E,b09769c2-246f-4461-b99e-a9786266fcda,1998,House,3666.25
+8490/83,Shelbyville,Province E,aae47837-171c-4b96-9709-79a2573006d1,2006,Shop,1580.05
+5260/55,North Haverbrook,Province D,d7f9cfa2-b708-4feb-a9a9-1c77942cff03,1988,2686.58,Garage
+3390/68,Shelbyville,Province B,6eb3eafb-4e5c-45c5-81c1-b88285420fcf,1960,Garage,1657.1
+6119/76,Ogdenville,Province B,fdc93205-0b05-469a-8200-1180d04bbcc9,1989,2463.52,Warehouse
+4020/92,Ogdenville,Province B,cb739e18-989a-42f7-ac1b-582267d9a975,1942,1283.75,Garage
+1589/82,Ogdenville,Province A,a4d63f6c-b1ab-48f9-b2f4-076c8ba7248c,1902,4237.49,Office
+4490/8,Shelbyville,Province D,2af73655-98b4-4a48-80e4-c4a470f09787,1901,Garage,1193.66
+4079/58,Shelbyville,Province A,17516843-6e70-4cf2-b296-f2a4c44cc708,1926,Shop,4940.35
+7576/77,Shelbyville,Province D,37e367b3-3d40-4fbc-8938-e64c70b4e748,1999,Office,4176.74
+8626/2,North Haverbrook,Province D,6f4cc877-df5a-4d6b-8a21-bccf15234639,1936,4522.06,Shop
+4151/63,North Haverbrook,Province A,7fc66691-6d5c-4bfd-bdbc-ce9749484cb0,1985,3191.66,Warehouse
+8306/52,North Haverbrook,Province E,0d302a62-07ee-46fa-99f5-b6a3eea1569d,1933,1799.85,Office
+1105/7,Springfield,Province D,2c9b1b26-4607-4b35-8dff-05b7d2ef7b49,2024,1373.44,Warehouse
+4399/78,Springfield,Province E,70360de6-b40d-4e69-aa34-4a58093c2945,1901,2090.3,Shop
+2289/20,North Haverbrook,Province A,08b04a5e-39a9-41c8-86f7-ae6ab0bfbba2,2020,4615.19,Office
+4961/41,Shelbyville,Province D,4a317f77-f79a-4fa5-a197-88dfba706411,1971,Shop,4961.13
+4952/11,North Haverbrook,Province E,adb869d3-2246-4b6c-8be6-5aa0978943ff,1965,3316.22,Office
+4894/53,Ogdenville,Province D,746e2e14-bfd7-4ca3-a062-d5333bb94608,1990,1877.13,Shop
+9883/77,Shelbyville,Province A,72312c9d-b3ce-4766-996a-d2f51dd8f592,1945,Office,3331.86
+7390/59,Springfield,Province B,168db029-5552-436e-b2e8-5960af2f3366,1923,3545.24,Garage
+6069/60,Springfield,Province A,489aa000-5731-4327-9c53-0a24e169e129,2023,3957.29,Office
+3947/74,North Haverbrook,Province E,b43e5461-8516-41c2-ba5d-4c7fbcb09bc2,1995,3661.18,House
+6710/92,Ogdenville,Province C,669b6d50-0064-4c62-ba2c-31f63bd7d41b,1986,315.22,Warehouse
+1844/16,North Haverbrook,Province B,58720984-06bf-4a52-883c-6bffbff880a6,1906,2842.34,Office
+9704/91,Shelbyville,Province A,722ad3d1-30b7-4955-ae21-e366b9cce181,1917,Office,3254.02
+8915/83,Ogdenville,Province D,d6b9b1ef-7815-40b7-92e0-6c4b0f569914,1937,4008.57,Garage
+2589/80,Ogdenville,Province A,2edf42c4-40ab-45c7-96ae-35fdb3db8cac,1915,2649.57,Shop
+6402/86,North Haverbrook,Province A,b8bf390e-eb35-4f69-9f7c-71d7739394b3,2000,1706.71,Shop
+6950/14,Shelbyville,Province E,a066bfa5-f6f1-4751-a795-8efd1d2fa8bb,2022,Shop,3215.32
+1967/26,Springfield,Province A,10ec921c-0a35-4338-b5c3-6c691bac3af3,1964,1793.88,Office
+2287/61,Shelbyville,Province C,9df9fa90-4c48-4f33-acfd-9482c91a9b12,1957,House,1337.05
+7632/54,Springfield,Province C,e6a77eaa-85b7-4349-b5ef-9f842d9fed01,1935,2144.46,Office
+3661/77,Springfield,Province C,324a71b8-f66c-4f6e-b81f-e06bec3d5583,1980,3125.78,Garage
+8342/20,Shelbyville,Province A,9edf676c-27cd-4df7-ab79-6958cd6d696a,1925,Warehouse,3814.49
+2443/58,Ogdenville,Province D,af6ce96f-2400-499a-99a4-496543d678cf,1903,3747.12,Warehouse
+9406/59,Shelbyville,Province D,0a12c08d-f2e1-4d2d-a4bf-8c396de223f0,1913,Office,1394.58
+7310/39,Ogdenville,Province E,69333fc8-7c40-4193-807d-227489936af6,1979,4464.8,Garage
+5943/32,North Haverbrook,Province C,07aa6778-9af5-4fdb-833d-45f186f1ea16,1938,1287.5,Shop
+1297/60,Ogdenville,Province A,9388b78b-66a1-49c0-a7ae-09785b644529,2009,2011.27,Shop
+3196/87,Ogdenville,Province C,74288d48-df17-446e-a72c-eca58ef44ccb,2007,3500.55,Office
+4536/9,North Haverbrook,Province E,b68b4fff-200a-4d54-b78c-7e3ca4aef993,1919,1714.07,House
+2831/72,Shelbyville,Province A,caa123d8-df03-4d5e-afcb-6e9c9bfee4f6,1999,Warehouse,879.26
+9240/46,Shelbyville,Province B,cb65517b-65ea-4e58-896a-66bbe8d9dda2,2010,Shop,1892.57
+1757/37,Shelbyville,Province C,35ab77a4-1253-4564-87a1-169d1b761c30,1967,Office,3219.89
+3130/22,North Haverbrook,Province E,da2f8251-2c48-4b73-bbca-d21be441fdea,1965,3826.63,Garage
+7611/42,Shelbyville,Province A,945a02ab-aed4-4f0e-9cef-6b7aa5b2c6be,1908,Garage,1546.35
+9697/14,Springfield,Province A,1031157b-90e8-41e4-aef1-c3bae803563f,2016,174.58,House
+8198/72,Ogdenville,Province A,205652fe-ba34-4713-bd18-ff09bea9e313,1960,3731.75,Warehouse
+6613/64,North Haverbrook,Province D,b90fc2b9-bc39-4e2b-adc0-873ff2c855d8,1973,1338.18,Office
+1026/49,Ogdenville,Province E,8d1d33e0-8bd5-458a-961b-3f5a4f1cec49,1991,1369.96,Garage
+5361/51,North Haverbrook,Province B,3bb4e313-7be8-49b2-931b-9293c894ce08,1999,3391.12,Shop
+3973/74,North Haverbrook,Province D,01548429-96c5-4e99-958b-93a34efc194d,1992,2492.54,House
+4814/63,Shelbyville,Province B,989d53b3-0975-4e48-a218-2661e48aa3ba,1910,Garage,4868.17
+4920/20,North Haverbrook,Province B,7ad40bdc-93d1-4de1-a571-cddf97f5c2d1,1974,797.58,Shop
+5933/29,Ogdenville,Province B,25299a4a-0e9c-41ac-837d-958db3ff3693,1955,1289.99,Warehouse
+9351/26,Ogdenville,Province E,755315ec-24a2-4df9-a5fe-d855f269b916,1942,4014.78,Warehouse
+5612/14,Springfield,Province C,e6f33a54-d5b5-476f-b17c-ef6c22c668cd,1973,958.74,Office
+4909/33,Shelbyville,Province E,915a6aa6-d2c6-447e-adab-b1ee4172462d,1927,Warehouse,2452.57
+5832/45,Shelbyville,Province B,655c4de9-1415-458a-903a-6dd955fe3c95,1916,Garage,2688.16
+5683/26,Springfield,Province D,ae5134c0-3717-408c-91a2-28e28e8e2fe6,1940,786.88,Office
+9783/96,Springfield,Province A,fd6600b5-0968-4e54-bac0-f3772450a45b,1925,1677.83,Shop
+6474/65,Springfield,Province D,25ec865c-39aa-4bae-8a7e-7ca5a95ac649,1993,762.81,Office
+9210/30,North Haverbrook,Province D,e5b031a1-7903-4ddc-9e4b-05aeb8f6eb9e,2010,3778.04,Warehouse
+3479/92,North Haverbrook,Province B,6817d113-e0e8-4282-910d-d0f6e74d49fa,1940,2318.1,Warehouse
+1273/96,North Haverbrook,Province C,aff058b0-4439-4837-be9c-351b4e1a1e5c,1902,4080.36,Garage
+5160/93,Ogdenville,Province C,518ee63b-3c67-4fa2-92fa-e9f2b1a1a794,2019,4560.26,Garage
+8975/40,Ogdenville,Province C,062584d4-5bab-4fe9-90e5-278ace643d4b,1987,922.14,Warehouse
+4089/59,Springfield,Province E,63accb35-0461-4b3e-bc6a-188584668350,1997,4058.61,Warehouse
+2934/94,Springfield,Province A,b8d1f75a-62c3-4bd5-a497-be17883f9465,1938,3069.03,Office
+5553/73,North Haverbrook,Province D,7f7a397f-7746-471c-bbc1-8c72a65f7e3e,1979,1578.96,Office
+3765/85,Ogdenville,Province A,2e33496d-4fd3-43d8-a7e8-6523e2a3a431,1929,3877.67,Garage
+9569/31,Shelbyville,Province C,cee50129-2419-4577-9e3f-a877f8c6c37d,2007,House,321.56
+8452/56,Shelbyville,Province C,7b280af6-2871-4225-ab39-5144fab391e8,1916,Warehouse,353.7
+4616/62,North Haverbrook,Province A,afe4cce6-32eb-4e78-ab97-b8e8bef8e71a,1917,157.02,Garage
+9157/76,Ogdenville,Province E,132a72a8-5c3e-4d0d-b848-df88d253bc43,1955,4168.53,Warehouse
+8233/90,North Haverbrook,Province D,3efa672b-849d-4bbd-8eab-c93647f011b5,2014,989.15,Garage
+4682/14,Shelbyville,Province C,05aae686-9d36-429a-8c5d-1b9f8c209ab3,1936,Office,3329.39
+4641/54,Springfield,Province C,5ccc2796-8312-4078-b178-f121d720244d,1941,3098.87,Garage
+5493/75,Springfield,Province C,bd6b0f2a-1c4b-44c4-b912-23bae6451663,1975,3136.77,Office
+9255/6,Springfield,Province B,fd08d55f-ef2c-4814-823d-39c35d97f648,1906,2043.81,Warehouse
+2525/28,Springfield,Province C,0ee140fd-aca1-4220-8635-20eaeefe9574,1930,3021.1,Office
+1632/20,Shelbyville,Province B,1c07c00d-ecb0-454c-85bc-c45b529f6279,1913,Shop,3082.68
+9152/46,North Haverbrook,Province B,b1312827-1d83-4354-8df0-43d1a57ab7fe,1960,1860.22,Shop
+9079/11,Ogdenville,Province C,f73f7462-077e-46f2-a687-d7c8b00af3a8,1903,3331.23,House
+3485/35,Shelbyville,Province B,0546fb93-0e38-45c7-b787-8870aa97d9ed,1909,Warehouse,3648.04
+7866/14,Shelbyville,Province D,efb82dcf-964a-4f15-941d-9935a14bce19,2018,Shop,4171.38
+6079/76,North Haverbrook,Province D,f03b3f33-370d-4eed-b07d-28689c2cb7bd,1926,2326.42,Shop
+9153/83,Ogdenville,Province D,cbf7c501-e9df-4aa6-b69b-178ab5944373,1970,3424.39,Office
+5287/19,Shelbyville,Province C,2c5c46b8-0293-49b5-8eaa-78d7d51133bb,1972,Garage,4212.57
+1473/22,North Haverbrook,Province E,0a9ed990-73c8-4c7c-b619-c64cef10e5c7,1903,4321.36,Garage
+1908/84,Ogdenville,Province A,34b919cc-7614-4e6f-b768-9bad43ade118,1922,3411.66,Warehouse
+7550/79,North Haverbrook,Province C,3e3bb62d-f312-4cec-9ea9-7dd349362613,1944,3349.46,Office
+1171/46,Shelbyville,Province E,14a3ecd9-6d03-484c-bb3c-77dce19f81ef,1956,Office,2639.47
+3670/49,Ogdenville,Province A,b2ddefe5-e601-4a28-9a32-9195b342da8a,2024,1976.69,Shop
+4621/72,North Haverbrook,Province A,eace5a23-974e-440f-8fa5-9aac9f2782a6,2021,676.81,Shop
+7776/72,North Haverbrook,Province B,ba242e9a-1879-4a9f-866b-f5a3dc5a0d45,2012,2055.38,Office
+9849/69,Ogdenville,Province A,3bea0ec3-75e7-4819-abb8-09a51d4eee5c,1950,743.87,Warehouse
+5290/57,Ogdenville,Province A,3d2e9191-0e97-4154-a29c-766b0f7883c7,nan,1210.23,Garage
+8936/21,Ogdenville,Province D,3a1aab96-f4b5-425c-af64-f29c7afdaf3a,1900,3937.12,Garage
+8176/76,Springfield,Province E,1aecd320-fd2a-4204-8bda-bddd884a4310,1924,2013.4,Warehouse
+8992/55,Springfield,Province C,c4a16284-e75c-40ac-98c1-f39daf6de722,nan,3413.55,Warehouse
+8106/76,Shelbyville,Province B,1606b380-71c3-4cbd-8eb3-87f209e6721e,1989,Warehouse,3169.42
+5504/13,Springfield,Province E,6772e2ca-1140-49b9-8ed7-528a0c43c8fa,1964,4171.46,Office
+3264/78,Ogdenville,Province D,8638013c-ed82-4d35-8080-b78169fb4be7,2021,4291.23,Shop
+3157/6,Shelbyville,Province D,17debc81-b25d-487c-b63f-b0fc73e6b4ef,1944,House,2244.96
+1027/95,Ogdenville,Province E,10cfdb33-408a-46eb-be1b-22a43038a507,1985,3911.27,Office
+2361/76,Springfield,Province B,23e155c9-10fb-4edd-848a-0b2ff349b0af,1925,4898.98,Shop
+5211/11,Shelbyville,Province E,cc237b85-0f53-4235-9ce0-b606fe5677c9,2014,Garage,2487.64
+2092/1,Springfield,Province E,07125f28-80d0-413d-9429-68e7005d96e8,1956,4758.65,Shop
+4323/62,Ogdenville,Province C,b75aa3a1-586d-40b5-9b38-b1aef3623839,1912,1912.39,Office
+4232/57,North Haverbrook,Province A,d219a86f-768c-4263-b935-626e6584e47f,1997,1707.64,Office
+1121/71,Springfield,Province C,fa95c979-8b39-421c-9771-bdb54f919f3d,1948,4115.23,Warehouse
+5373/48,Ogdenville,Province A,5f33c850-14cb-4cb4-941d-cb7631b2b8f6,1968,4680.3,Office
+3240/89,Ogdenville,Province D,09ff6e81-c42e-4726-add0-e2fe025759c6,1904,4789.72,Shop
+4782/99,North Haverbrook,Province C,6d00bea1-b64a-41b4-819e-b7118a67ba0a,1936,2592.72,Office
+6604/96,North Haverbrook,Province E,0dcdfaab-aa60-4a68-b860-896163a98883,1910,1059.74,Shop
+6592/35,North Haverbrook,Province E,6d8fed8b-05a9-4008-831c-416730ab3c63,2008,2008.02,Garage
+1081/94,Ogdenville,Province D,c1522a86-d3a7-4ee4-885c-aca5877cc48a,1983,1853.98,Garage
+7786/70,North Haverbrook,Province E,c66d2b1d-eebc-490b-be98-48dde2c3e193,1972,284.34,Warehouse
+8413/12,Shelbyville,Province B,237f3d32-a778-4f9a-8808-0885ce5450ea,1965,House,2210.94
+7933/55,Ogdenville,Province B,3e3b082b-581c-4202-8e0d-bfacc953520f,1988,1490.55,Garage
+6048/49,Ogdenville,Province C,c5d036a5-165f-4d07-adbc-13dbbeda3529,1915,1385.03,Warehouse
+9964/74,Ogdenville,Province A,560414f5-d1bc-4672-8cf8-99dfab92a86f,1900,723.33,Shop
+9335/26,Shelbyville,Province C,2999b70e-6a2d-4b9d-a547-3019c91541c8,1957,House,3986.37
+7238/81,Shelbyville,Province E,94e1e0c2-f0c7-463f-8fd7-602b0b7d266e,2002,House,4115.55
+5419/36,North Haverbrook,Province A,198c4ffd-21d7-4863-813c-f56d43379459,2017,718.18,Office
+8982/25,Springfield,Province B,37e1f9be-7ff2-4707-8628-d8e5478c0fda,1958,4437.99,House
+1275/47,Shelbyville,Province B,116e0f2c-f377-4bb9-8884-c48ef7ed82b3,1967,Garage,29.06
+4389/89,Springfield,Province E,1006515a-c857-4f19-81fe-74e2b756cbba,1942,1147.84,House
+2144/6,Ogdenville,Province D,1d28dd3f-44d8-425a-bdc2-3a055f9b9a6d,1927,1143.31,Garage
+9865/39,North Haverbrook,Province A,52e52c38-10d7-4d00-b4cd-ff0787a194f7,2009,1799.96,House
+8037/84,Springfield,Province D,dffb4bdb-d569-4f8e-b23e-f9492a3c1ce3,1971,153.19,Garage
+2005/58,Springfield,Province B,84c35196-781d-44ae-a18f-c49a3ec948fd,1952,2904.93,Shop
+5464/3,North Haverbrook,Province E,bd6e16ef-57bb-4732-aea7-0164935e05d6,1963,833.42,Garage
+5458/34,Springfield,Province E,3b6b03f1-9af8-44a6-bee4-26be065f9039,2000,3155.18,Shop
+4426/56,Shelbyville,Province D,f2f588f7-93cc-4c78-b31c-24b91a698f59,2007,House,609.81
+3644/56,Ogdenville,Province D,1408e400-fce3-4d97-93f0-efc9a2ed88e0,1941,167.19,Warehouse
+2727/20,Shelbyville,Province B,3b87d92d-b9ec-4b1a-9912-4092be7991fc,1954,Office,4598.41
+5818/34,Ogdenville,Province C,d6539669-7fcc-4adc-b707-7b4fa66d849a,1989,2414.76,Shop
+8208/8,Shelbyville,Province B,bf181404-c8e2-4434-b172-537b991d06f5,1975,Garage,3940.03
+8694/51,North Haverbrook,Province B,2c7637f1-f7a5-4d74-9cfb-0789df0dafcd,nan,900.85,Shop
+3974/41,Ogdenville,Province A,81029479-bd43-4bb2-89aa-292846ab46cd,2013,4688.4,Office
+6741/8,Ogdenville,Province B,cbc672c5-e28e-40cc-9425-ce0029e6691b,1933,298.55,Garage
+6264/76,Ogdenville,Province C,c6b6ddab-965b-454d-9408-395da2e274d5,1952,4846.76,Shop
+9785/94,Springfield,Province B,0ac6e184-ffbf-4cad-afa4-ce1c5652107f,1998,3710.61,Office
+7704/58,Shelbyville,Province B,ce8d01ef-be6d-4b9e-bcc7-0e86c3cb0232,1901,Office,682.66
+8036/97,North Haverbrook,Province A,64a7b7f2-a6ef-4286-b283-5d407ab998a8,2005,3558.76,House
+1486/90,Shelbyville,Province B,014aabaa-67c9-48ae-9613-3ef01961aec8,1928,Garage,189.76
+8396/10,North Haverbrook,Province B,e60665a4-c618-4684-aca8-7b393370c35d,2008,1563.28,Shop
+1641/6,Shelbyville,Province E,dc2fcd0c-a315-4a64-b6e5-9e3d4d708e24,1933,Garage,2791.09
+3579/64,North Haverbrook,Province B,ddceae35-490a-44b5-b0cc-c489ba829346,1926,3990.16,Garage
+6299/95,Springfield,Province A,ffae77e4-2dbf-4d46-8a88-61dbfe3d0acc,1996,3358.36,Warehouse
+5762/19,Ogdenville,Province C,9e1c1c66-5130-4e2a-ae0d-e40c2a13eadd,1956,2903.03,Shop
+4735/19,Springfield,Province B,3b95a7f3-4c6c-488f-aad9-c14420dfb323,1960,4725.09,Garage
+4144/43,Ogdenville,Province E,453fce96-d046-4f61-947f-8a2915cea21d,1916,1140.69,Garage
+2343/48,Ogdenville,Province B,d6c63230-9d33-4412-b7b3-b4bb8d50fbb2,2014,3043.21,Garage
+8367/50,North Haverbrook,Province A,95e4ebef-00b6-4d6a-bff1-b69a0631d4c2,1900,808.07,Warehouse
+3202/69,North Haverbrook,Province E,2e923ed3-6ebc-4d25-9859-a08fc33a7c26,1934,4178.63,Garage
+5422/94,Ogdenville,Province E,75675349-391f-4613-b9fb-3d54ccc4ec7a,2019,2372.21,Office
+9104/89,Ogdenville,Province A,ca9f3ecf-0014-4134-9d51-1d5011945cfb,2002,4046.05,House
+6100/20,Shelbyville,Province E,0990bada-aaee-43b1-81ba-23160065e024,1924,Warehouse,376.85
+8476/1,Shelbyville,Province A,196af8b4-b3ce-4d8a-a592-bac31a98d4cb,1938,Office,2786.09
+8703/69,Springfield,Province E,58573975-e0e0-4d9e-a3d0-e7a4f92e14b5,2017,1076.44,Shop
+3368/22,Ogdenville,Province D,f2945709-55a9-47fc-a6cf-c15f7b420e1e,1954,3392.84,House
+9117/53,Ogdenville,Province C,d0a75aa8-ff95-4cc6-af28-c512cd576d41,2014,4809.36,House
+6982/13,Ogdenville,Province A,d0362dc5-7c72-49b1-a6f2-65bf81bf4a69,1976,122.12,Office
+9296/64,Springfield,Province A,e7fcff47-b19f-4d52-a09b-3e68566ae813,2001,4822.38,Warehouse
+9102/58,Ogdenville,Province B,ee6d5566-84ae-42fe-a0ca-48ee21ab1141,1908,4848.44,Shop
+5525/56,Springfield,Province B,1453f4ef-cbda-40fd-bfb0-163403b7e04e,2004,870.95,Garage
+4766/45,Ogdenville,Province C,3deecae8-fcc2-48b1-a311-e7eb164f3c37,2022,327.04,Warehouse
+5617/60,Ogdenville,Province C,301a9835-b99a-4273-b164-46aeb40dee88,2004,3247.59,Shop
+6242/33,North Haverbrook,Province B,b927ce1a-8eb2-4b8e-97b9-fb8a7dade3cc,1976,2853.03,Garage
+2944/80,Ogdenville,Province B,f1844c7f-673c-44eb-84f4-ce0896c2d276,1932,4235.94,Garage
+8194/39,Shelbyville,Province C,98c58969-6d59-4b33-80f8-2b754b7cefe7,1973,Warehouse,2603.78
+8088/30,Shelbyville,Province D,8fec221d-b5ed-437a-b601-053a7c235266,2020,Garage,921.34
+7169/27,North Haverbrook,Province D,496627fc-ed54-4658-ac42-9ba55988add1,1930,2181.08,House
+4741/51,Shelbyville,Province A,eb367610-5cbd-4741-a54e-9238761e0d62,1975,Office,4999.29
+4634/30,North Haverbrook,Province D,c55f4d2c-3be7-4c91-800e-4b19d13a8205,1920,986.21,Office
+4197/23,Springfield,Province B,9ed65de4-3151-45bf-8f44-02a579fed924,1972,3571.22,Shop
+2585/15,Shelbyville,Province B,3c09148b-bb03-4257-b427-9e41b78f33de,1972,Garage,1087.69
+6678/29,Shelbyville,Province C,ad24628a-2739-47e4-9c80-f992c66d2a61,1928,Shop,729.62
+4381/36,Ogdenville,Province D,85a96fdb-4028-427d-9221-0783b4c6cfb5,1914,4186.7,Garage
+1573/32,Shelbyville,Province B,592e9737-6a81-4014-a1f3-da2daa419948,1948,Garage,480.79
+8770/34,North Haverbrook,Province C,22523215-a9bc-4f25-856c-4c673fc664de,1934,4768.05,Office
+2281/57,Springfield,Province B,c3a8217e-3a09-4547-9e20-2b7741953a27,1907,744.44,Garage
+5940/86,Springfield,Province C,8a02c977-e9ae-4dcc-8f8c-820712a3df16,1921,2805.92,Office
+8075/45,North Haverbrook,Province C,ac97b265-9419-4f8c-b2cb-7331b808f175,1975,4284.0,House
+7250/6,Springfield,Province A,649e76e0-eeb3-4f37-9b79-19a86dafdc44,2004,1563.11,Warehouse
+7916/37,Shelbyville,Province B,718677ae-9afb-4f7f-9b5a-32da4968bd78,1950,Warehouse,4437.76
+8280/77,North Haverbrook,Province A,13b6fcb0-30a7-4dbb-8558-644e983814f3,1944,90.95,Shop
+7476/35,Springfield,Province E,0dbf0fe3-ab3e-4259-ae46-1592ca8a2be6,1970,297.09,Shop
+5069/24,North Haverbrook,Province E,53db42fa-196d-4658-a7fc-fb95d284ca96,1920,240.01,Office
+9966/85,Springfield,Province B,dde9a8da-2d5d-4d12-b045-92059dfc9891,1998,2237.61,Office
+7462/28,North Haverbrook,Province A,5312c4a1-7ecb-4c7e-a7b6-bedd1244881d,1969,3624.77,Garage
+5995/62,Springfield,Province E,0631032c-7495-4fb4-b2d5-1cb23c8aa693,1922,1174.7,Garage
+8762/77,Springfield,Province E,5fda2c48-4f87-400f-857b-3403fa3627ce,1976,2226.12,House
+9957/45,Ogdenville,Province B,86d016d6-08a4-40aa-b6dd-f0a30d28b7cd,1982,852.95,House
+9904/5,Shelbyville,Province E,5f40b5ee-3894-48a2-ae39-f2a47086972d,1987,Office,3137.6
+1150/32,Springfield,Province B,e580e282-8d23-4de1-8b3f-beb6c3066877,2022,615.74,Shop
+3154/78,North Haverbrook,Province A,4ca52165-40fb-42e8-bd72-f9ffd32a205b,1999,4421.48,Shop
+1934/63,Shelbyville,Province D,4225d613-c686-4779-a74f-53b123581373,1998,Shop,2029.04
+9645/34,Ogdenville,Province B,bd452b51-2fe9-42e1-8d28-75a5d188beb6,1944,331.71,Warehouse
+9863/6,Ogdenville,Province C,8e6fc067-91da-43ff-b00a-fb7860988a93,1906,544.13,Shop
+9260/1,Ogdenville,Province A,78be2f13-ea15-472e-96fa-ee568742bda9,1911,2577.97,House
+5870/90,Ogdenville,Province A,62fa1eb6-9e2d-4c4e-ab3f-2f4b78676ab7,1978,3708.97,Office
+2845/47,North Haverbrook,Province D,cbd63bb6-b261-4218-a252-ddee34dbb6f5,1939,3433.83,Office
+5199/89,North Haverbrook,Province B,89532850-842b-4f18-8e3a-054db58271b9,1937,835.44,Shop
+8302/26,Springfield,Province C,a3d42eac-9463-4344-bcd6-7b36027a21e0,1974,4336.87,House
+6723/7,Springfield,Province C,81ac50fd-913a-4194-bcf1-0e129967132b,2008,245.83,Office
+9363/95,North Haverbrook,Province C,05968783-ee5b-4f2c-9252-ce980147bb35,1961,4909.91,Garage
+1391/97,North Haverbrook,Province C,c254949d-ff9b-44c0-8cbb-f147068b170c,1981,3608.94,Office
+5186/7,Ogdenville,Province E,9838dba5-5ddf-4083-8733-e7918d2f2912,1930,1486.71,Garage
+6638/79,Ogdenville,Province B,bde33370-c988-49a1-8b95-0ccaedcad47d,1965,575.42,House
+1418/7,North Haverbrook,Province A,13c53f85-3e7f-4229-a518-e683560618a7,1901,3173.67,Shop
+6781/7,Shelbyville,Province A,2108f928-941a-4154-99e7-6da44ca9eb6d,1939,Warehouse,4396.64
+9841/31,Shelbyville,Province E,a90b0b17-9111-4eff-a35d-f9c8ad501bd1,2025,Garage,1428.79
+1356/92,Springfield,Province C,a6322d38-ae89-41c8-9a89-1e8342b5d1a7,1995,4737.87,Office
+2665/38,North Haverbrook,Province E,4d90a8fe-6b24-47f7-8e12-ab5af738cf1f,2010,3708.99,Warehouse
+8772/21,Shelbyville,Province E,2e023b85-6f60-4f14-8cd1-c94665b70aa7,1974,Warehouse,978.76
+3063/9,Ogdenville,Province D,74df3a42-c1cd-4b5f-8600-b9c9ac784841,1961,1002.3,Shop
+2602/38,Shelbyville,Province E,f2b88f55-83bb-45c0-9c21-a4f4b6e18296,1907,Office,3561.86
+8933/59,Shelbyville,Province E,107f2d95-c3ab-4edd-9848-d2bea3e91847,1942,Warehouse,1850.2
+6172/61,Springfield,Province B,6323e714-080f-42d8-8bac-a325228383ad,1955,3578.92,Warehouse
+3541/37,Ogdenville,Province E,72fc6e59-aeeb-46b7-af01-d8e559b7f354,1943,4754.24,Warehouse
+9376/45,Shelbyville,Province E,d560d590-c192-4f47-bff4-8552257ba15c,1954,Garage,3073.54
+6228/45,North Haverbrook,Province C,d6c0b38b-8dba-4437-8977-d1f7d51a3f0c,1941,2831.23,Office
+5537/6,North Haverbrook,Province C,00cae7c5-3e3d-4d78-91cd-d4d329f84e71,1960,3552.7,Office
+4503/9,Springfield,Province C,cf76b02f-4cf8-42af-98c7-2e75c09f9938,1987,753.86,House
+5913/21,Springfield,Province D,5da4f55c-f04c-4cb2-a3c7-3e5d329d83b6,1913,1718.37,Office
+5936/69,Springfield,Province C,2f40033e-e418-483e-b506-9571a6dbe40a,1993,1350.2,Garage
+1866/65,Ogdenville,Province E,a73263f3-0079-427c-9f4b-5da68b3f3224,1945,4285.49,Garage
+1291/43,Ogdenville,Province E,62de3f93-0020-413c-a138-19e499382e99,1960,880.44,Warehouse
+8703/93,Ogdenville,Province E,787a3a97-8f9c-4ac8-aef8-6009263a77b7,1916,1752.06,Office
+8798/68,Ogdenville,Province A,86b5333b-a4ee-497b-afcc-538bd18c54fd,1997,1669.8,House
+3184/34,Ogdenville,Province A,bbf4d084-8d34-4b43-b636-010a99347932,1996,505.02,Warehouse
+1150/4,Ogdenville,Province B,1092b712-e6f1-4f3a-8283-b64012a9624b,1916,4878.64,Garage
+8502/5,Springfield,Province C,e0367e6d-732a-4a58-a88d-9756a216fb83,1951,3727.87,Office
+9094/49,North Haverbrook,Province B,80141934-b8f3-4200-8b4c-17c444c17ab7,1976,2232.57,Garage
+7116/79,Ogdenville,Province D,7cb0ba19-1d36-412f-bc16-5162b33c0673,1976,735.75,Office
+4386/85,Shelbyville,Province C,aab3bc43-7ff0-450a-b344-459aec87de7d,1936,House,4920.52
+9888/28,Springfield,Province A,3ca3b11f-b64b-4334-91c4-80b5338a8f98,1930,1694.74,Garage
+1415/6,Shelbyville,Province E,50abea0b-25fa-41a4-ae27-03ed5ffdc256,1959,Shop,1433.32
+3844/83,North Haverbrook,Province E,a3e908ef-9eae-4821-9d66-5cbaa1f24ef9,2001,4673.76,House
+5584/79,Springfield,Province B,c5ce6d7d-adac-4406-9d42-555a83a44055,1969,1475.35,House
+4518/64,Shelbyville,Province A,14782bbb-8475-437b-a193-96f6acb92120,1902,Office,3103.63
+1606/21,Ogdenville,Province A,9ed90b7a-f4ec-4d78-9cdf-e1cd31fa1d94,1979,998.33,Gargage
+2361/51,Shelbyville,Province D,9713a8ee-7f91-47c8-8b01-e19383d776d5,1979,Warehouse,3582.02
+7109/61,North Haverbrook,Province D,939495c4-9e69-4a54-bc82-70914cb2ca77,2001,3427.65,House
+9175/81,Shelbyville,Province A,344d3960-3a80-4eb3-ac40-a4f1a171e772,1993,Garage,1043.48
+7316/68,North Haverbrook,Province B,f706f524-6dc9-438c-beaf-c06b717bc70a,1967,4095.55,Shop
+9463/83,Ogdenville,Province B,6f6a2a90-9079-476f-adfb-bcfd7225bd1f,1975,4727.47,Warehouse
+6825/19,Shelbyville,Province A,8b2118b7-78a8-40ad-93e1-6e286d80caae,2025,Garage,1087.88
+7107/5,Springfield,Province A,bef3a540-6750-42ad-90e7-f75336e7364a,2019,3577.08,Office
+8609/40,North Haverbrook,Province E,6fc7c0e8-0587-4830-93b3-98f611207a62,2004,4207.39,Warehouse
+9124/93,Shelbyville,Province B,5f44bd65-22de-408d-913c-97e82a3fb60f,1983,House,1501.38
+8454/33,Shelbyville,Province B,464a2705-b6ce-402c-b9d4-75e1993a023b,1934,Office,4443.41
+5080/26,North Haverbrook,Province C,18478f50-e3c4-48a3-af04-1f82af73033f,1935,4629.64,House
+5709/7,Ogdenville,Province D,157a505b-7994-4cd5-adc2-0b692ac2ff6b,1918,4397.83,Warehouse
+4553/92,Springfield,Province D,f7b2418b-cd63-419e-981c-66967969acba,1991,2898.11,Warehouse
+7445/5,Springfield,Province A,ec2f9031-f6d3-4bee-b511-7941d4261a46,1904,2768.96,Shop
+4860/70,Ogdenville,Province B,0331a19c-f9d4-402f-8612-07081684f98e,1938,1717.73,Warehouse
+3778/85,Springfield,Province C,bc048db6-7e19-4897-9b69-1768a3762938,1943,2827.3,House
+6512/2,North Haverbrook,Province A,209aa2c3-941d-4a3f-acbd-6e7b41fe71a3,1994,4129.22,Warehouse
+4985/13,Ogdenville,Province A,99285ee2-ebd3-42c7-b51a-6a73168170c6,2022,2751.77,Shop
+1559/29,Springfield,Province B,d3d5580b-1c87-48f7-99f4-4be78bf0c772,2007,4962.11,House
+9400/72,Ogdenville,Province E,7eadefd0-a929-4b8f-8fca-6879274e76f6,1954,2614.41,House
+4495/11,Shelbyville,Province B,e16f3ab0-4749-4f80-a4e7-128e38941e89,2018,House,1662.13
+6778/42,Springfield,Province B,e9f30efd-bb90-4f10-be1f-24b600071cc3,1957,556.13,Shop
+5322/5,North Haverbrook,Province D,2d29d758-7e94-4062-bc51-1a19deb1e7e8,1930,4067.61,Garage
+8686/74,Ogdenville,Province B,ca2ef8a7-19b9-42f4-af1c-0edf115ca6dd,1956,4002.51,House
+5569/58,Shelbyville,Province D,8446e1b3-fb6c-46e6-802c-73c95c87a1e4,2022,House,2448.68
+5988/87,Springfield,Province D,d44a7fda-3d8b-4342-9432-fc1e8ecdf139,2006,2670.16,Warehouse
+1833/95,North Haverbrook,Province B,7ed5ab59-f7bd-43b7-bcc1-d34343f8a1ad,2016,1948.55,Warehouse
+1603/82,Ogdenville,Province C,f9057b67-1ba0-43df-8aae-f0d8c7529433,1914,4001.84,House
+4732/11,North Haverbrook,Province E,71b27dd7-4d56-4679-b113-8cd2478d1b99,1945,4184.53,House
+2006/14,Springfield,Province C,7ddf99ac-f03e-40b3-8416-f51e11e15884,1903,2110.66,Warehouse
+2500/61,Shelbyville,Province A,cd4d404c-f138-4267-850f-d18da5358f2d,1958,Warehouse,2556.3
+5632/7,Shelbyville,Province E,3c19b865-e43b-4476-9bd2-8eda2df31fff,1926,Warehouse,199.19
+2999/50,North Haverbrook,Province A,f9cb8fc5-280f-41ce-9c4f-c07869231427,1997,3789.49,Warehouse
+2565/62,Springfield,Province A,109f5ec6-4fdc-4f9f-90f2-9a3f9d14824e,2002,1775.1,House
+6849/4,Ogdenville,Province E,08851e86-4c78-4d53-af58-d1ddd1f2b1d9,1968,672.6,House
+7608/50,Springfield,Province D,2e7d41cc-98dc-467a-85ae-5acc6bc89c24,2005,83.65,Warehouse
+2698/24,Ogdenville,Province C,f1643634-0fc2-41b6-bc73-5f8b4781582f,2009,1443.89,Warehouse
+3838/44,Shelbyville,Province D,55b43a69-b65c-4d54-8998-8fa99c501b49,1961,Warehouse,3319.26
+2145/30,Shelbyville,Province D,a5d5f051-b494-45f3-b3fa-e652fdb4082f,1983,Garage,4476.36
+9469/55,Ogdenville,Province C,bdb77ce4-9fdd-4d4e-aaf7-9f8cb7564eac,1957,688.16,Warehouse
+1745/4,North Haverbrook,Province B,bb81a339-df60-473a-848c-56b92d7a745a,2003,2124.54,House
+9198/28,North Haverbrook,Province E,6c33d980-8553-4057-ab78-e33a8027dfe2,2017,500.94,Office
+4685/57,Springfield,Province E,d6926a19-87da-4988-9178-d1ee3df2a840,2005,74.3,House
+3511/25,Springfield,Province C,b1c996d1-7d00-40d0-8f0c-fe97a0d0c977,1937,2434.65,Shop
+9167/9,Springfield,Province C,0a3f1ff3-8584-4a7c-8f65-414221669c6b,1932,1373.3,Warehouse
+6295/33,Shelbyville,Province C,1cba10a3-410a-4919-b3ec-9b061ec304cf,1967,Office,821.84
+5292/67,Shelbyville,Province E,ca618f88-5d3a-4984-a008-e2fb4afe9ef3,1925,Shop,156.86
+5117/72,Ogdenville,Province C,fbbd8612-7d50-4859-b149-faad6d9a5072,1939,1567.27,House
+4924/45,Springfield,Province E,9583ca50-9baa-483f-afa9-67692729e6aa,1987,2762.2,House
+9957/22,North Haverbrook,Province E,49c8141c-4893-4409-85f6-b7383f424bb8,2001,1623.46,House
+8496/59,Ogdenville,Province E,cc5f4479-532e-4c0d-ac21-ce0da199fe2e,1909,709.56,Office
+2833/95,North Haverbrook,Province A,d23fd8db-ad46-4b97-af1c-d65b5abfe14a,1931,461.27,Warehouse
+2405/44,Springfield,Province C,74da0608-5bbf-4dd6-862a-94bf8368233e,1940,1010.19,Office
+4219/32,Springfield,Province B,fc7c46af-c271-45de-815c-31fb1750f186,2012,184.31,Shop
+3005/94,Springfield,Province D,b1fcbc1f-e512-4a5b-9546-d3cd073d0d66,2000,4015.35,Warehouse
+8950/74,Shelbyville,Province C,7ab2a573-3ade-4b90-bc07-b13cef66421a,1900,Warehouse,3723.28
+7850/50,Springfield,Province A,3dedd946-8889-4558-a75d-e7338a32eef2,1975,4364.58,Garage
+7365/16,North Haverbrook,Province A,72d58892-3fd5-4b2c-9cf1-9749c258dcc6,2004,1115.57,Warehouse
+1527/34,Springfield,Province B,780326e1-431e-4562-9583-0a0ff2e88715,1930,198.8,Garage
+5094/54,Springfield,Province B,5c53e1d4-b4a1-4073-8ba3-fa6b26c3b3be,1912,1130.85,Office
+2183/3,North Haverbrook,Province E,b480d28b-39a2-41fe-bea3-3870e860cc38,1920,4102.83,House
+5227/21,Shelbyville,Province E,c8e763dc-7506-40b5-8d3b-09480a351fd2,1988,Garage,1999.56
+2894/16,Ogdenville,Province D,2465e193-a340-45aa-b709-b55ad42d5644,1983,785.07,Garage
+4107/13,North Haverbrook,Province D,9c66b20e-05ec-475c-9ba7-d3afc145e48b,1964,4651.84,Office
+2289/87,Shelbyville,Province C,ee3d0be7-6f15-40b0-a13e-bc1cd509d2b2,1966,Warehouse,2245.17
+8689/6,Shelbyville,Province A,895e151d-fa85-40a3-90ca-3e7050de5a90,1993,Shop,586.78
+7348/80,Shelbyville,Province A,306d30d6-83c3-46b8-a4cd-1b1a59f41bbe,2019,House,2254.59
+4828/30,Shelbyville,Province B,d3f20f4d-f90d-4837-b6b2-3e0aa7a4bbf4,2023,Garage,4053.55
+7835/37,Springfield,Province A,2ff60421-c72a-432a-81bd-4c1a3ad773e8,1998,1938.46,Garage
+6541/92,Ogdenville,Province A,ec3ac079-981b-4941-9c56-ac24dbd440b6,1972,438.35,Office
+4937/39,Springfield,Province C,31e08cb4-9de0-4414-8635-fa02151095fa,1955,1042.88,Warehouse
+7954/9,Springfield,Province D,b6431a57-2b5f-42a8-9af1-1e6edb18a355,1963,1530.73,House
+4047/87,Shelbyville,Province C,f9776d5b-09d3-4a21-a0fa-b6b0f955b46f,1913,House,2611.28
+2344/87,Springfield,Province B,76168f3e-f098-41e3-ac37-643815fabc8b,1909,3526.03,House
+8267/2,Shelbyville,Province B,9bda4b46-61cb-4510-be9a-b67ca1482af7,1993,Shop,4890.45
+7178/99,North Haverbrook,Province C,03ac2bf2-d249-4a48-a10d-c70e8b776fd6,1950,522.25,Office
+9678/12,Shelbyville,Province D,6c940765-7545-4756-aa7b-793fa8fecaa0,1915,Shop,236.41
+5151/70,Springfield,Province B,6969e15d-23ec-457c-aeca-fc79d1c6e635,2000,3354.92,Garage
+5213/84,Springfield,Province C,53f3c2b7-7fb9-4d6d-9bee-f668b31f2141,1930,3645.34,Garage
+8866/67,Shelbyville,Province E,0fb2eab7-867e-4cef-8885-52dbc58900df,1997,Warehouse,4429.8
+7196/31,Shelbyville,Province A,908cebc1-060a-43a1-9b62-d0caaaae20a8,1948,Shop,2347.15
+3533/67,North Haverbrook,Province B,38321409-d57f-4cf0-a19a-9f93e0ea842d,1994,2645.62,Garage
+2652/29,Springfield,Province B,36a1720e-483e-4c0b-86f9-e2d1fc3cc9f1,1984,1335.21,Shop
+8784/24,North Haverbrook,Province A,feb82ece-075d-41eb-b53d-fbeb7bad47ae,1906,1508.4,Office
+1043/81,North Haverbrook,Province A,877a2362-8bf1-4c76-826e-592d81fabf7e,1923,3065.73,Office
+2159/15,North Haverbrook,Province D,16ee6e41-ffa5-4b0c-8606-60111c8d45c0,1980,1691.01,Warehouse
+1835/40,Springfield,Province E,3925fb1a-dd6b-4966-97bb-1eb970c255e5,2000,885.17,Office
+5738/21,Shelbyville,Province B,adbecb5a-b9d6-4c11-8366-3bd9cc7ca0c8,1926,Garage,287.57
+7008/39,Ogdenville,Province E,18cd50f4-fe7b-4baa-80e3-6589b300770f,1916,4368.47,Warehouse
+7130/77,North Haverbrook,Province C,2963956a-b48f-4018-be88-860b543511c8,1951,138.44,Shop
+7142/91,Springfield,Province C,fbf3a900-9e39-4979-9711-2a6e08d0380c,1975,1202.25,Shop
+7819/96,North Haverbrook,Province C,58157b33-2ac4-423d-a9fd-0bf124d259e0,1918,2097.36,House
+9696/84,Ogdenville,Province C,20f14715-0c6b-4e8a-9c88-1339839fff38,2014,2082.1,Shop
+8868/39,North Haverbrook,Province B,c4f20e50-1e8e-4aff-ae8b-83418db607d9,1976,4703.18,Garage
+5893/19,Shelbyville,Province E,8c7ded4e-1f31-4328-a591-98945c26fd9b,1907,Office,902.79
+4505/59,Shelbyville,Province E,6e49c015-ce12-45b2-b192-319d5c2f1d83,1946,House,4533.5
+3682/57,Ogdenville,Province B,6265686b-34ba-416b-b9db-1e67a686ad5f,1978,220.25,Warehouse
+5018/24,Ogdenville,Province E,2f942f06-1e83-41f5-94e4-bc22cfb4b548,1999,307.11,Shop
+9552/75,Shelbyville,Province C,580d18b1-b2bb-43ef-b94a-72a32e276ef7,1996,Garage,4244.06
+2956/22,North Haverbrook,Province C,8e255aac-c1ff-4b09-8756-b53a484353c5,2000,448.73,Garage
+5217/93,Springfield,Province A,1b97f306-e6d7-4405-9f06-60182831df9c,1926,3547.42,Warehouse
+4930/50,Ogdenville,Province C,c83c7b28-bf4d-4d90-8fd3-369dfebe08b2,1910,3634.23,Garage
+2417/64,North Haverbrook,Province E,dc9ff488-b27a-4c8f-8c67-d0240d1257b0,1963,1827.64,Warehouse
+6274/98,North Haverbrook,Province D,cf8d5ab0-5c62-4e8f-adc3-8786023532eb,1911,2462.45,Garage
+2337/45,Springfield,Province B,5bd0265e-d6bb-44dd-a817-7f9367174950,1974,1231.52,Warehouse
+2661/93,North Haverbrook,Province C,6a4251b2-8f68-482f-9a52-accbab2dfd18,1957,1279.26,Office
+6138/72,Ogdenville,Province A,ed67adaf-686c-4a2b-8073-4e2d709af187,2022,4332.72,Warehouse
+1623/47,Ogdenville,Province E,060eef50-c685-436f-a663-de47f9a54129,1924,2569.95,Warehouse
+5560/9,Ogdenville,Province C,dd0b2878-fef0-491f-8c69-fc7829184d60,1949,4911.12,Shop
+3670/63,North Haverbrook,Province D,985a0d5c-07ca-4128-ae4a-ab54116fd508,2000,631.96,Garage
+9883/78,North Haverbrook,Province B,a79fe698-bb69-4061-9a9f-753445ae9a7c,2022,4637.52,House
+8655/11,Ogdenville,Province A,0e707a98-2a15-41f5-af68-a49fa909961a,2007,1694.57,House
+2833/23,Ogdenville,Province E,7a06cbf6-6874-43f5-8d6d-5796a2b23db8,2000,4988.1,House
+5784/82,North Haverbrook,Province C,a7b0a2aa-9fd6-4bfa-b0f0-d5d92ac0b140,2017,4219.58,House
+1630/24,Springfield,Province E,2c6b8c0a-1952-4bb7-a09a-48d75b71e70e,1935,4190.68,Office
+3350/58,North Haverbrook,Province A,67970a21-6a45-4e09-a1d3-e71fcfa0dd10,1998,3424.1,Warehouse
+4885/48,Springfield,Province C,401e3562-f07e-4628-a199-cb1b5e86aded,1982,3886.2,Warehouse
+1412/48,North Haverbrook,Province E,66dc771d-fffb-436a-9b06-de5538a27dad,1901,3927.88,House
+6090/81,North Haverbrook,Province C,f5568b14-a6a4-449c-be0e-811b05b2eace,1936,4670.02,Office
+4317/27,Springfield,Province E,38359c65-43e1-4824-abf8-1d629a256a98,1987,537.92,House
+3663/85,Ogdenville,Province C,8d63b71b-e957-4422-b181-1cdc4102f74a,1991,4189.98,House
+9252/51,Springfield,Province D,f8857a02-4e88-4d30-929e-e261c05d48ed,2010,3692.1,Garage
+1433/91,Shelbyville,Province B,605b3e14-2d65-4389-bfe5-3a083bf6787c,1999,Shop,207.53
+3748/85,Shelbyville,Province E,cc14399b-1505-44c0-aab0-884ebb186344,1994,Shop,1485.09
+3389/95,North Haverbrook,Province B,3d87139f-1fac-4f43-aa37-393243215841,1943,4386.34,Office
+5524/81,Ogdenville,Province D,719ad88c-c808-4683-a6a3-95f3e92530d6,2016,3111.27,Garage
+3118/71,Ogdenville,Province B,24ac6aa7-43c4-43ac-80c2-561112598fff,1980,3964.46,Office
+1192/2,Ogdenville,Province C,15e990a9-a861-47a5-8591-0ec20998d1a7,1948,815.9,Warehouse
+1441/82,Ogdenville,Province A,b1db29cd-b7dd-444f-90a8-461a3aac5388,1905,4778.14,Garage
+1263/25,North Haverbrook,Province D,7fb3ff0b-89d8-4c39-937c-1f1a0e8aa4b4,1965,3908.47,House
+6655/3,Shelbyville,Province A,c735ce8a-8678-437f-8b87-378bd5fbbbac,2020,House,1036.17
+5174/65,Shelbyville,Province E,074c565b-9a38-4ebd-8216-48629a7b2ab2,1919,Office,3372.74
+1221/3,North Haverbrook,Province B,b08d5193-5794-4ad3-be95-49f2ac3955a0,1962,4692.55,Garage
+8546/97,Springfield,Province C,7b3715d6-d1e5-4f2f-933d-a9abc8f09c66,1992,366.11,Office
+2382/31,Springfield,Province D,e9d2faf2-d00b-42fa-bebb-82f4eac215b6,1958,331.8,Office
+2374/84,Ogdenville,Province D,3332e461-c115-42a6-8d25-d4e1c952a3e1,1930,193.76,House
+9329/45,North Haverbrook,Province B,4856232f-6333-4070-b87d-02f53a6ddf3f,1909,2481.49,House
+7314/89,North Haverbrook,Province C,9a9ada0c-f0ee-4a39-9b25-aa9e6d36554b,1903,1083.75,Office
