@@ -13,5 +13,5 @@ pip install -r requirements.txt
 2. run the jupyter lab
 
 ```bash
-jupyterlab
+jupyter lab
 ```
